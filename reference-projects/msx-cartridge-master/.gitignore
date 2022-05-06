@@ -1,0 +1,7 @@
+*.bak
+*.bck
+*.dcm
+*-bak
+*-cache.lib
+*.net
+gerber/

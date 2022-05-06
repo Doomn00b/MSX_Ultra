@@ -1,0 +1,227 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0469990346
+D Connector Header Through Hole 24 position 0.165" (4.20mm)
+K ATX PSU Molex
+F https://www.molex.com/pdm_docs/sd/469990336_sd.pdf
+$ENDCMP
+#
+$CMP 5530841-5
+D 50 Position Female Connector - Flange, Dual Edge Gold 0.100" (2.54mm) Black
+K MSX SLOT CONNECTOR TE CONNECTIVITY
+F https://www.te.com/usa-en/product-5530841-5.datasheet.pdf
+$ENDCMP
+#
+$CMP 5530841-5_Flange
+D 50 Position Female Connector - Flange, Dual Edge Gold 0.100" (2.54mm) Black
+K MSX SLOT CONNECTOR TE CONNECTIVITY
+F https://www.te.com/usa-en/product-5530841-5.datasheet.pdf
+$ENDCMP
+#
+$CMP 5530841-5_copy
+D 50 Position Female Connector - Flange, Dual Edge Gold 0.100" (2.54mm) Black
+K MSX SLOT CONNECTOR TE CONNECTIVITY
+F https://www.te.com/usa-en/product-5530841-5.datasheet.pdf
+$ENDCMP
+#
+$CMP 5530843-5
+D 50 Position Female Connector Non Specified - Dual Edge Gold 0.100" (2.54mm) Black
+K MSX SLOT CONNECTOR TE CONNECTIVITY
+F https://www.te.com/usa-en/product-5530843-5.datasheet.pdf
+$ENDCMP
+#
+$CMP 5530843-5_copy
+D 50 Position Female Connector Non Specified - Dual Edge Gold 0.100" (2.54mm) Black
+K MSX SLOT CONNECTOR TE CONNECTIVITY
+F https://www.te.com/usa-en/product-5530843-5.datasheet.pdf
+$ENDCMP
+#
+$CMP AD723
+D Low Cost RGB to NTSC/PAL Encoder with Luma Trap Port
+K Video
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD723.pdf
+$ENDCMP
+#
+$CMP ADM691A
+D Supervisor Open Drain, Push-Pull, 1 Channel, 16-SOIC
+K SMD SMT Supervisor
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ADM690_691_692_693_694_695.pdf
+$ENDCMP
+#
+$CMP ATF16V8B
+D Simple Programmable Logic Device, 15 ns, 20 I/O Pins, 8 macrocells, 8 registers.
+K Atmel SPLD EEPLD CPLD Microchip PAL
+F https://www.mouser.se/datasheet/2/268/Atmel-0364-PLD-ATF16V8B-8BQ-8BQL-Datasheet-1381979.pdf
+$ENDCMP
+#
+$CMP ATX-24-LRJ
+D ATX Power supply 24pins
+K ATX PSU
+F https://www.molex.com/pdm_docs/sd/469990336_sd.pdf
+$ENDCMP
+#
+$CMP CPU_R800
+D Microprocessor, MPU, @ 16MHz, R800, CMOS CPU, XTEMP
+K MPU ZILOG CPU Z80 R800
+F https://www.mouser.se/datasheet/2/240/z380-2584705.pdf
+$ENDCMP
+#
+$CMP CXA1645
+D Sony RGB Encoder, PAL, NTSC,
+F https://gamesx.com/rgbadd/cxa1645.pdf
+$ENDCMP
+#
+$CMP Conn_KLDX-0202-A
+D DC Power Connectors 2mm PCB, POWER JACK
+K DC power barrel jack connector Kycon
+F https://eu.mouser.com/datasheet/2/222/KLDX_0202_LT-334784.pdf
+$ENDCMP
+#
+$CMP Conn_SO-DIMM-144
+D Socket for 144-pin SO-DIMM memory modules.
+K DRAM SDRAM CMOS MEMORY
+F https://pinouts.ru/Memory/SimmSo144_pinout.shtml
+$ENDCMP
+#
+$CMP Conn_TE_5530841-5
+D 50 Position Female Connector - Flange, Dual Edge Gold 0.100" (2.54mm) Black
+K TE CONNECTIVITY
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5530841&DocType=Customer+Drawing&DocLang=English
+$ENDCMP
+#
+$CMP D41464
+D Dynamic NMOS RAM, 32 KiloByte (65636 words @ 4 bits each), 5V
+K RAM DRAM NEC MSX
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/104836/NEC/D41464.html
+$ENDCMP
+#
+$CMP DAC_YM3016
+D Audio DAC, 2-Channel, Serial & Binary input, Floating
+K DAC AUDIO Yamaha
+F https://wiki.neogeodev.org/images/d/d1/YM3016.pdf
+$ENDCMP
+#
+$CMP KM41C1000CG
+D Dynamic NMOS RAM, 32 KiloByte (65636 words @ 4 bits each), 5V
+K RAM DRAM NEC MSX
+$ENDCMP
+#
+$CMP MPU_Z280
+D Microprocessor, MPU, @ 20MHz, Z280 CMOS CPU, XTEMP
+K MPU ZILOG CPU Z80 Z280
+F http://oldcomputers.dyndns.org/public/pub/rechner/zilog/z280/manual/index.html
+$ENDCMP
+#
+$CMP MPU_Z380
+D Microprocessor, MPU, @ 20MHz, Z380 CMOS CPU, XTEMP
+K MPU ZILOG CPU Z80 Z380
+F https://www.mouser.se/datasheet/2/240/z380-2584705.pdf
+$ENDCMP
+#
+$CMP MPU_Z84C00
+D Microprocessor, MPU, @ 6, 8, 10, 20MHz, Z80 CMOS CPU, XTEMP
+K MPU ZILOG CPU Z80
+F https://www.mouser.se/datasheet/2/240/ps0178-2584834.pdf
+$ENDCMP
+#
+$CMP MSX-DANv4-case_dummy
+D Mini-ITX case, for checking placements of components to PCB.
+K MSX Case mITX Mini-ITX
+F https://www.silverstonetek.com/raven/product-rv.php?pid=753&area=en
+$ENDCMP
+#
+$CMP MSX-cartridge_dummy
+D MSX-cartridge, for checking placements of components to PCB.
+K Zpark
+F https://github.com/apoloval/artemisa/issues/113
+$ENDCMP
+#
+$CMP MSX-silver-case_dummy
+D MSX-cartridge, for checking placements of components to PCB.
+K Zpark
+F https://www.silverstonetek.com/raven/product-rv.php?pid=753&area=en
+$ENDCMP
+#
+$CMP MSX_SHOST_FLANGE
+D MSX-compatible connector for the cartridge slots used in the MSX-standard.
+K MSX SLOT HOST CONNECTOR
+F https://www.te.com/usa-en/product-5530843-5.datasheet.pdf
+$ENDCMP
+#
+$CMP MSX_SLOT_HOST
+D MSX-compatible connector for the cartridge slots used in the MSX-standard.
+K MSX SLOT HOST CONNECTOR
+F https://www.te.com/usa-en/product-5530843-5.datasheet.pdf
+$ENDCMP
+#
+$CMP NAND128W4A
+D SLC NAND Flash Parallel 3V/3.3V 128M-bit 16M x 8 ,12uS, 48-Pin TSOP T/R
+K NAND Flash
+F https://www.micron.com/~/media/documents/products/data-sheet/nand-flash/nandxxx-a.pdf
+$ENDCMP
+#
+$CMP RP5C01-lrj
+D REAL-TIME CLOCK for CPUs such as the 8085 or Z80, -0.3 to +7.0 V,
+K RTC Real-time clock CPU Z80 8085
+F https://www.datasheetarchive.com/pdf/download.php?id=603338716b3718ac1b944f59fec8ac52bc0d89&type=M&term=RP5C01A
+$ENDCMP
+#
+$CMP RR9
+D Resistor Networks & Arrays 10pins 10Kohms Bussed, THT
+K MSX resistor THT
+F https://www.mouser.se/datasheet/2/54/4600x-776645.pdf
+$ENDCMP
+#
+$CMP SST39SF040
+D FLASH Memory, 4Mb (512K x 8), Parallel, 55-70 nS
+K Flash Memory
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP V9958
+D Video Display Processor (VDP)
+K VDP YAMAHA
+F https://www.mirrorservice.org/sites/www.bitsavers.org/pdf/yamaha/Yamaha_V9938_MSX-Video_Technical_Data_Book_Aug85.pdf
+$ENDCMP
+#
+$CMP VCCRGB
+D Power symbol creates a global label with name "VCCRGB", voltage source for a RGB processor.
+K power-flag VDP
+$ENDCMP
+#
+$CMP VCCVDP
+D Power symbol creates a global label with name "VCCVDP", voltage source for a Video Display Processor.
+K power-flag VDP
+$ENDCMP
+#
+$CMP YM2149
+D Software-Controlled Sound Generator (SSG), Programmable Sound Generator (PSG)
+K Yamaha PSG SSG
+F http://www.ym2149.com/ym2149.pdf
+$ENDCMP
+#
+$CMP YM2608
+D Software-Controlled Sound Generator (SSG), Programmable Sound Generator (PSG)
+K Yamaha PSG SSG
+F http://www.vgmpf.com/Wiki/images/d/de/YM2608_Manual_%28Translated%29.pdf
+$ENDCMP
+#
+$CMP YM2610
+D Software-Controlled Sound Generator (SSG), Programmable Sound Generator (PSG)
+K Yamaha PSG SSG
+F http://www.vgmpf.com/Wiki/images/d/de/YM2608_Manual_%28Translated%29.pdf
+$ENDCMP
+#
+$CMP Z8038018FSG
+D Microprocessor, MPU, @ 18MHz, Z380 CMOS CPU
+K MPU ZILOG CPU Z80 Z380
+F https://www.mouser.se/datasheet/2/240/z380-2584705.pdf
+$ENDCMP
+#
+$CMP Z8038025FSC
+D Microprocessor, MPU, @ 25MHz, Z280 CMOS CPU
+K MPU ZILOG CPU Z80 Z380
+F https://www.mouser.se/datasheet/2/240/z380-2584705.pdf
+$ENDCMP
+#
+#End Doc Library

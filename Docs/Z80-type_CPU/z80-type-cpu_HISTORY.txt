@@ -1,0 +1,35 @@
+ntroduced by ZiLOG in the early '70s, the Z80 was an impressive processor for its time. 
+The original Z80 (a 2MHz part) was a souped-up version of the then-popular Intel 8080 processor. 
+While compatible with the 8080, the Z80 offered many new features: new instructions, new addressing modes, 
+two index registers, faster execution, high performance peripheral chips, and a clever interrupt scheme. 
+Soon, Z80s were available in higher speed grades (4MHz and 6MHz). 
+For many years, the Z80 was the king of 8-bit processors.
+
+In 1976, ZiLOG introduced the Z280, which was an enhanced Z80, but it turned out to be a big failure.
+Around 1985, Hitachi introduced the 64180 microprocessor, which was an improved Z80. 
+ZiLOG second-sourced the processor under the Z180 name. This 64-pin DIP processor executed most instructions 
+with fewer clock cycles than the Z80 and contained a number of on-chip peripherals such as a pair of UARTS, 
+a clocked serial I/O port, an on-chip interrupt controller, two DMA channels, two 16-bit timers, 
+and an on-chip memory management unit allowing the '180 class processor to extend the address space from 64K 
+to 1,024K. Although called an MMU, this device only implemented memory banking (described later).
+
+In the mid '90s, ZiLOG announced the Z380 but, like the Z280, it never really went anywhere. 
+Today, a number of companies are selling Z80-derived processors, including AB-Semicon, Kawasaki, LSI, NEC, 
+Toshiba, and VAutomation.
+
+Towards the end of last year, ZiLOG announced a new generation of Z80 derivatives. Around that same time, 
+a new company called Rabbit Semiconductor introduced its own new generation of Z80 derivatives. 
+ZiLOG's offering is called the eZ80 and is expected to hit the street in the second half of 2000. 
+Rabbit Semiconductor's new processor is called the Rabbit 2000; it started shipping in November 1999. 
+Rabbit Semiconductor was founded by its parent company Z World Inc. Z World has been around since 1981 
+and has been using the Z80 and Z180/64180 extensively in its board-level controllers.
+
+Annual volumes of Z80 flavors are reported to be at around 200 million units. I asked both ZiLOG and Rabbit 
+why they would introduce new products based on a 25-year-old architecture. I got the same response from both: 
+a lot of engineers (about 100,000), have used these chips at some point in their career, and are already 
+familiar with the architecture. The Z80 architecture is simple to learn and still quite powerful. 
+And, like any popular platform, there is a lot of valuable legacy software floating around for it. 
+Finally, it's quite difficult and expensive to introduce completely new architectures. 
+Both ZiLOG and Rabbit claim that their new processors rival 16-bit processors in performance.
+
+The original 

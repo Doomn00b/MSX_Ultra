@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name rr5-my_components)(type Legacy)(uri ${KIPRJMOD}/rr5-my_components.lib)(options "")(descr ""))
+  (lib (name Omega-Mainboard-r1)(type Legacy)(uri ${KIPRJMOD}/Omega-Mainboard-r1.lib)(options "")(descr ""))
+  (lib (name Omega-Mainboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Omega-Mainboard-rescue.lib)(options "")(descr ""))
+  (lib (name Ultra-MSX)(type Legacy)(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX Ultra/Hardware/Libraries/Ultra-MSX.lib")(options "")(descr ""))
+)

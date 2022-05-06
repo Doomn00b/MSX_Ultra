@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Cerberus)(type Legacy)(uri ${KIPRJMOD}/Libraries/Cerberus.lib)(options "")(descr ""))
+  (lib (name Ultra-MSX)(type Legacy)(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX Ultra/Hardware/Libraries/Ultra-MSX.lib")(options "")(descr ""))
+)

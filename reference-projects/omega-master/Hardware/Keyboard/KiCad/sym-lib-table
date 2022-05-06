@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Omega-Keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/Omega-Keyboard-rescue.lib)(options "")(descr ""))
+)

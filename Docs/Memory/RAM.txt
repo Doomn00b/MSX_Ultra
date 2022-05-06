@@ -1,0 +1,16 @@
+Module-suggestion:
+AN32V6416SQGAM
+
+Connector:
+296403144221856A+
+
+
+Look at:
+Intel 386SX, and schematics / memory interfacing
+
+
+Example-system:
+https://blog.lse.epita.fr//2015/11/16/lsepc-intro.html
+
+
+AS6C8016

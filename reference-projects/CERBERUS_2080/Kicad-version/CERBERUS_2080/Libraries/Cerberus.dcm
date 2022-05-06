@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 7132LA55PDGI
+D Video DPRAM
+$ENDCMP
+#
+$CMP ATF1504AS
+D EEPLD/SPLD
+$ENDCMP
+#
+$CMP Z84C0010PEG
+D Z80 CPU in CMOS-variation.
+K Z80 CPU MPU Zilog
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,13 @@
+/**/dist/*
+/**/build/*
+/**/objs/*
+.DS_Store
+!/**/dist/README.md
+!/**/dist/*.com
+!/**/dist/*.sys
+!/**/dist/*.rom
+!/**/dist/*.bin
+!/**/dist/*.zip
+/**/*.vhd
+/openmsx.xml
+/.vscode/*

@@ -1,0 +1,25 @@
+Warning: No net found for symbol U2 pin 83.
+Warning: No net found for symbol U6 pin 2.
+Warning: No net found for symbol U6 pin 3.
+Warning: No net found for symbol U2 pin 98.
+Warning: No net found for symbol U2 pin 143.
+Warning: No net found for symbol U14 pin 9.
+Warning: No net found for symbol U14 pin 18.
+Warning: No net found for symbol U15 pin 9.
+Warning: No net found for symbol U15 pin 18.
+Warning: No net found for symbol U2 pin 219.
+Warning: No net found for symbol U16 pin 9.
+Warning: No net found for symbol U16 pin 18.
+Warning: No net found for symbol U2 pin 168.
+Warning: No net found for symbol U17 pin 9.
+Warning: No net found for symbol U17 pin 18.
+Warning: No net found for symbol U2 pin 22.
+Warning: No net found for symbol U2 pin 37.
+Warning: No net found for symbol U2 pin 195.
+Warning: No net found for symbol U2 pin 199.
+Warning: No net found for symbol U2 pin 204.
+Warning: No net found for symbol Y3 pin ~.
+Warning: No net found for symbol Y3 pin ~.
+Error: Cannot update J12 (footprint 'Ultra-MSX:Conn_Pin_Header_2x2_2.54mm' not found).
+
+Info: Total warnings: 0, errors: 1.

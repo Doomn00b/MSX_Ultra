@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cerberus)(type KiCad)(uri ${KIPRJMOD}/Libraries/cerberus.pretty)(options "")(descr ""))
+)

@@ -1,0 +1,1383 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	6350 950  5950 950 
+Wire Wire Line
+	6350 1050 5950 1050
+Wire Wire Line
+	6350 1250 5950 1250
+Wire Wire Line
+	6350 2250 5950 2250
+Wire Wire Line
+	6350 1600 5950 1600
+Wire Wire Line
+	6350 850  5950 850 
+Text Label 5950 950  0    60   ~ 0
+~RD
+Text Label 5950 1050 0    60   ~ 0
+~WR
+Text Label 5950 1250 0    60   ~ 0
+~IORQ
+Text Label 5950 2250 0    60   ~ 0
+~RFSH
+Text Label 5950 850  0    60   ~ 0
+~RESET
+Text Label 5950 1600 0    60   ~ 0
+RESET
+Wire Wire Line
+	6350 4250 5950 4250
+Wire Wire Line
+	7450 3850 7850 3850
+Text Label 5950 4250 0    60   ~ 0
+~RAM_SL
+Text Label 7850 3850 2    60   ~ 0
+~ROM_CS
+Wire Wire Line
+	6350 1350 5950 1350
+Text Label 5950 1350 0    60   ~ 0
+~M1
+Wire Wire Line
+	7350 5850 7750 5850
+Text Label 7750 5850 2    60   ~ 0
+~RESET
+Wire Wire Line
+	6350 1700 5950 1700
+Wire Wire Line
+	7350 1700 7750 1700
+Text Label 5950 1700 0    60   ~ 0
+~VDP_INT
+Wire Wire Line
+	5900 6000 6350 6000
+Text Label 5900 6000 0    60   ~ 0
+~VDP_WAIT
+Text Label 7750 1700 2    60   ~ 0
+~SLT_INT
+Wire Wire Line
+	5950 4150 6350 4150
+Text Label 5950 4150 0    60   ~ 0
+~PAGE_CS
+Wire Wire Line
+	12700 1550 13200 1550
+Text Label 12700 1550 0    60   ~ 0
+~PSG_CS
+Wire Wire Line
+	9700 1350 9200 1350
+Wire Wire Line
+	9700 1450 9200 1450
+Text Label 9200 1350 0    60   ~ 0
+SLT1_SND
+Text Label 9200 1450 0    60   ~ 0
+SLT2_SND
+Wire Wire Line
+	9700 1950 9200 1950
+Wire Wire Line
+	9700 2050 9200 2050
+Text Label 9200 1950 0    60   ~ 0
+CAS_MOT
+Text Label 9200 2050 0    60   ~ 0
+CAS_OUT
+Wire Wire Line
+	13200 1750 12700 1750
+Text Label 12700 1750 0    60   ~ 0
+PSG_SND
+Wire Wire Line
+	9700 2150 9200 2150
+Text Label 9200 2150 0    60   ~ 0
+CAS_IN
+Wire Wire Line
+	9200 1750 9700 1750
+Text Label 9200 1750 0    60   ~ 0
+AUDIO
+Wire Wire Line
+	7350 6050 7750 6050
+Text Label 7750 6050 2    60   ~ 0
+AUDIO
+$Comp
+L power:GND #PWR011
+U 1 1 5C1A0169
+P 14900 9300
+F 0 "#PWR011" H 14900 9050 50  0001 C CNN
+F 1 "GND" H 14900 9150 50  0000 C CNN
+F 2 "" H 14900 9300 50  0001 C CNN
+F 3 "" H 14900 9300 50  0001 C CNN
+	1    14900 9300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	14500 9100 14500 9200
+Wire Wire Line
+	14700 9100 14700 9200
+Wire Wire Line
+	14900 9100 14900 9200
+Wire Wire Line
+	15100 9100 15100 9200
+Wire Wire Line
+	14900 9200 14900 9300
+$Comp
+L Mechanical:MountingHole_Pad H1
+U 1 1 62296138
+P 14500 9000
+F 0 "H1" H 14450 9200 50  0000 L CNN
+F 1 "MountingHole_Pad" H 14600 8958 50  0001 L CNN
+F 2 "LRJ:MountingHole_3.96mm_Pad_Via" H 14500 9000 50  0001 C CNN
+F 3 "~" H 14500 9000 50  0001 C CNN
+	1    14500 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H2
+U 1 1 6231ADF1
+P 14700 9000
+F 0 "H2" H 14650 9200 50  0000 L CNN
+F 1 "MountingHole_Pad" H 14800 8958 50  0001 L CNN
+F 2 "LRJ:MountingHole_3.96mm_Pad_Via" H 14700 9000 50  0001 C CNN
+F 3 "~" H 14700 9000 50  0001 C CNN
+	1    14700 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H3
+U 1 1 62334D32
+P 14900 9000
+F 0 "H3" H 14850 9200 50  0000 L CNN
+F 1 "MountingHole_Pad" H 15000 8958 50  0001 L CNN
+F 2 "LRJ:MountingHole_3.96mm_Pad_Via" H 14900 9000 50  0001 C CNN
+F 3 "~" H 14900 9000 50  0001 C CNN
+	1    14900 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole_Pad H4
+U 1 1 62334D38
+P 15100 9000
+F 0 "H4" H 15050 9200 50  0000 L CNN
+F 1 "MountingHole_Pad" H 15200 8958 50  0001 L CNN
+F 2 "LRJ:MountingHole_3.96mm_Pad_Via" H 15100 9000 50  0001 C CNN
+F 3 "~" H 15100 9000 50  0001 C CNN
+	1    15100 9000
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 700  1050 1600 1150
+U 6239ACEC
+F0 "Power" 60
+F1 "Ultra-MSX_Power.sch" 60
+$EndSheet
+Wire Wire Line
+	15350 9200 15350 9050
+Connection ~ 14900 9200
+Wire Wire Line
+	14900 9200 15100 9200
+Wire Wire Line
+	15550 9050 15550 9200
+Wire Wire Line
+	15550 9200 15350 9200
+Connection ~ 15350 9200
+Wire Notes Line
+	15650 8650 14300 8650
+Wire Notes Line
+	14300 8650 14300 9600
+Wire Notes Line
+	14300 9600 15650 9600
+Wire Notes Line
+	15650 9600 15650 8650
+Text Notes 14300 8600 0    60   ~ 0
+Mechanical
+$Comp
+L Ultra-MSX:MSX-cartridge_dummy Cart1
+U 1 1 61E7C841
+P 15800 8900
+F 0 "Cart1" H 15700 8900 43  0000 L CNN
+F 1 "MSX-cartridge_dummy" H 15800 9100 50  0001 C CNN
+F 2 "Ultra-MSX:MSX-cart-dummy" H 16000 8750 50  0001 C CNN
+F 3 "https://github.com/apoloval/artemisa/issues/113" H 16000 8900 50  0001 C CNN
+F 4 "n/a" H 16050 8950 50  0001 C CNN "MPN"
+F 5 "n/a" H 16050 9000 50  0001 C CNN "Manufacturer"
+	1    15800 8900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Ultra-MSX:MSX-cartridge_dummy Cart2
+U 1 1 61C22A4A
+P 15800 9150
+F 0 "Cart2" H 15700 9150 43  0000 L CNN
+F 1 "MSX-cartridge_dummy" H 15800 9350 50  0001 C CNN
+F 2 "Ultra-MSX:MSX-cart-dummy" H 16000 9000 50  0001 C CNN
+F 3 "https://github.com/apoloval/artemisa/issues/113" H 16000 9150 50  0001 C CNN
+F 4 "n/a" H 16050 9200 50  0001 C CNN "MPN"
+F 5 "n/a" H 16050 9250 50  0001 C CNN "Manufacturer"
+	1    15800 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Ultra-MSX:MSX-cartridge_dummy Cart3
+U 1 1 61C3B482
+P 15800 9400
+F 0 "Cart3" H 15700 9400 43  0000 L CNN
+F 1 "MSX-cartridge_dummy" H 15800 9600 50  0001 C CNN
+F 2 "Ultra-MSX:MSX-cart-dummy" H 16000 9250 50  0001 C CNN
+F 3 "https://github.com/apoloval/artemisa/issues/113" H 16000 9400 50  0001 C CNN
+F 4 "n/a" H 16050 9450 50  0001 C CNN "MPN"
+F 5 "n/a" H 16050 9500 50  0001 C CNN "Manufacturer"
+	1    15800 9400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3250 7550 2800 7550
+Wire Wire Line
+	3250 7900 2800 7900
+Text Label 2800 7550 0    60   ~ 0
+~SLTSL1
+Text Label 2800 7900 0    60   ~ 0
+~SLTSL2
+Wire Wire Line
+	3250 7750 2800 7750
+Wire Wire Line
+	3250 8100 2800 8100
+Text Label 2800 7750 0    60   ~ 0
+SLT1_SND
+Text Label 2800 8100 0    60   ~ 0
+SLT2_SND
+Wire Wire Line
+	3250 7650 2800 7650
+Wire Wire Line
+	3250 8000 2800 8000
+Text Label 2800 7650 0    60   ~ 0
+~BUSDIR1
+Text Label 2800 8000 0    60   ~ 0
+~BUSDIR2
+Wire Wire Line
+	5200 6550 4600 6550
+Wire Wire Line
+	2750 3550 3250 3550
+Text Label 5200 6550 2    60   ~ 0
+~VDP_WAIT
+Text Label 2750 3550 0    60   ~ 0
+~KBD_WAIT
+Wire Wire Line
+	3250 7400 2800 7400
+Text Label 2800 7400 0    60   ~ 0
+~SLT_WAIT
+Wire Wire Line
+	3250 1050 2850 1050
+Wire Wire Line
+	3250 1150 2850 1150
+Wire Wire Line
+	3250 1250 2850 1250
+Wire Wire Line
+	3250 1350 2850 1350
+Wire Wire Line
+	3250 1450 2850 1450
+Wire Wire Line
+	3250 1750 2850 1750
+Wire Wire Line
+	3250 1900 2850 1900
+Text Label 2850 1050 0    60   ~ 0
+~RD
+Text Label 2850 1150 0    60   ~ 0
+~WR
+Text Label 2850 1250 0    60   ~ 0
+~MREQ
+Text Label 2850 1350 0    60   ~ 0
+~IORQ
+Text Label 2850 1450 0    60   ~ 0
+~RFSH
+Text Label 2850 1900 0    60   ~ 0
+~RESET
+Text Label 2850 1750 0    60   ~ 0
+RESET
+Wire Wire Line
+	4600 4150 5000 4150
+Wire Wire Line
+	4600 3750 5000 3750
+Text Label 5000 4150 2    60   ~ 0
+~RAM_SL
+Text Label 5000 3750 2    60   ~ 0
+~MEM_RD
+Wire Wire Line
+	5050 9550 4600 9550
+Text Label 5050 9550 2    60   ~ 0
+~PSG_CS
+Wire Wire Line
+	5050 9450 4600 9450
+Text Label 5050 9450 2    60   ~ 0
+AUDIO
+Wire Wire Line
+	3250 950  2850 950 
+Text Label 2850 950  0    60   ~ 0
+~M1
+Wire Wire Line
+	3250 7300 2800 7300
+Text Label 2800 7300 0    60   ~ 0
+~SLT_INT
+Wire Wire Line
+	3250 3750 2750 3750
+Text Label 2750 3750 0    60   ~ 0
+KANA_LED
+Text Label 2750 3850 0    60   ~ 0
+KEY_CLICK
+Wire Wire Line
+	2750 3850 3250 3850
+Wire Wire Line
+	3250 2950 2750 2950
+Text Label 2750 2950 0    60   ~ 0
+CAS_MOT
+Wire Wire Line
+	3250 3050 2750 3050
+Text Label 2750 3050 0    60   ~ 0
+CAS_OUT
+Wire Wire Line
+	3250 6100 2700 6100
+Text Label 2700 6100 0    60   ~ 0
+PRT_BUSY
+Wire Wire Line
+	4600 4250 5000 4250
+Text Label 5000 4250 2    60   ~ 0
+~PAGE_CS
+Text Label 5900 5800 0    60   ~ 0
+~VDP_RD
+Text Label 5900 5900 0    60   ~ 0
+~VDP_WR
+Wire Wire Line
+	6350 5900 5900 5900
+Wire Wire Line
+	6350 5800 5900 5800
+Text Label 5800 6500 0    60   ~ 0
+CSYNC_JPR
+Text Label 5800 6400 0    60   ~ 0
+PALCLK_JPR
+Wire Wire Line
+	5800 6500 6350 6500
+Wire Wire Line
+	6350 6400 5800 6400
+Text Label 5200 6350 2    60   ~ 0
+~VDP_RD
+Text Label 5200 6450 2    60   ~ 0
+~VDP_WR
+Wire Wire Line
+	4600 6450 5200 6450
+Wire Wire Line
+	4600 6350 5200 6350
+Text Label 5200 6650 2    60   ~ 0
+PALCLK_JPR
+Wire Wire Line
+	4600 6650 5200 6650
+Text Label 2850 4450 0    60   ~ 0
+JOY_SEL
+Wire Wire Line
+	3250 4450 2850 4450
+$Sheet
+S 6350 800  1000 2400
+U 5BD9D731
+F0 "Processor" 60
+F1 "Ultra-MSX_CPU.sch" 60
+F2 "~RD" O L 6350 950 60 
+F3 "~WR" O L 6350 1050 60 
+F4 "~IORQ" O L 6350 1250 60 
+F5 "~RESET" I L 6350 850 60 
+F6 "RESET" I L 6350 1600 60 
+F7 "~RFSH" O L 6350 2250 60 
+F8 "~M1" O L 6350 1350 60 
+F9 "~VDP_INT" I L 6350 1700 60 
+F10 "~SLT_INT" I R 7350 1700 60 
+F11 "~RTC_CS" I L 6350 2050 60 
+F12 "~INT" I L 6350 1150 60 
+F13 "~WAIT" I L 6350 1950 60 
+F14 "CLK_VDP" O R 7350 1400 60 
+F15 "D[0..15]" B R 7350 950 60 
+F16 "A[0..31]" I L 6350 3050 60 
+F17 "CLK_BUS" O L 6350 1450 60 
+F18 "CLK_IO" O R 7350 1300 60 
+F19 "~MEM_RD" I R 7350 2750 60 
+F20 "~MEM_WR" I R 7350 2850 60 
+F21 "~AUD_INT" O R 7350 1100 60 
+F22 "~HALT" I L 6350 1850 60 
+F23 "~BHEN" I R 7350 2450 60 
+F24 "~BLEN" I R 7350 2550 60 
+F25 "~UMCS" I R 7350 2250 60 
+F26 "~LMCS" I R 7350 2350 60 
+F27 "~RAS0" I R 7350 2950 60 
+F28 "~CAS0" I R 7350 3150 60 
+F29 "~RAM_CS[0..7]" I L 6350 2950 50 
+F30 "~MSIZE" O R 7350 2150 60 
+F31 "Z80M" I L 6350 2350 60 
+$EndSheet
+Wire Wire Line
+	2750 2850 3250 2850
+Text Label 2750 2850 0    60   ~ 0
+CAS_IN
+Text Label 5050 9650 2    60   ~ 0
+PSG_SND
+Wire Wire Line
+	5050 9650 4600 9650
+Text Notes 14850 850  0    60   ~ 12
+LEGEND:\n\n
+Text Label 9200 6550 0    60   ~ 0
+~CS12
+Text Label 9200 6050 0    60   ~ 0
+~CS2
+Text Label 9200 5550 0    60   ~ 0
+~CS1
+Wire Wire Line
+	9650 6550 9200 6550
+Wire Wire Line
+	9650 5550 9200 5550
+Wire Wire Line
+	9650 6050 9200 6050
+Text Label 9200 5250 0    60   ~ 0
+~SLT_WAIT
+Wire Wire Line
+	9650 5250 9200 5250
+Text Label 9200 6250 0    60   ~ 0
+~BUSDIR2
+Text Label 9200 5750 0    60   ~ 0
+~BUSDIR1
+Wire Wire Line
+	9650 6250 9200 6250
+Wire Wire Line
+	9650 5750 9200 5750
+Text Label 9200 6350 0    60   ~ 0
+SLT2_SND
+Text Label 9200 5850 0    60   ~ 0
+SLT1_SND
+Wire Wire Line
+	9650 6350 9200 6350
+Wire Wire Line
+	9650 5850 9200 5850
+Text Label 9200 5350 0    60   ~ 0
+~SLT_INT
+Wire Wire Line
+	9650 5350 9200 5350
+Text Label 9200 6150 0    60   ~ 0
+~SLTSL2
+Text Label 9200 5650 0    60   ~ 0
+~SLTSL1
+Wire Wire Line
+	9650 6150 9200 6150
+Wire Wire Line
+	9650 5650 9200 5650
+Wire Wire Line
+	2850 4850 3250 4850
+Wire Wire Line
+	2850 4750 3250 4750
+Wire Wire Line
+	2850 4650 3250 4650
+Wire Wire Line
+	2850 4550 3250 4550
+Text Label 2850 4850 0    60   ~ 0
+~TRG2_B
+Text Label 2850 4750 0    60   ~ 0
+~TRG2_A
+Text Label 2850 4650 0    60   ~ 0
+~TRG1_B
+Text Label 2850 4550 0    60   ~ 0
+~TRG1_A
+Text Label 5000 2950 2    60   ~ 0
+~FWD_A
+Text Label 5000 2850 2    60   ~ 0
+~FWD_B
+Text Label 5000 2350 2    60   ~ 0
+~BCK_A
+Text Label 5000 2250 2    60   ~ 0
+~BCK_B
+Text Label 5000 2650 2    60   ~ 0
+~LFT_B
+Text Label 5000 2750 2    60   ~ 0
+~LFT_A
+Text Label 5000 2450 2    60   ~ 0
+~RGT_B
+Text Label 5000 2550 2    60   ~ 0
+~RGT_A
+Wire Wire Line
+	5000 2950 4600 2950
+Wire Wire Line
+	5000 2850 4600 2850
+Wire Wire Line
+	5000 2750 4600 2750
+Wire Wire Line
+	5000 2650 4600 2650
+Wire Wire Line
+	5000 2550 4600 2550
+Wire Wire Line
+	5000 2450 4600 2450
+Wire Wire Line
+	5000 2350 4600 2350
+Wire Wire Line
+	5000 2250 4600 2250
+Wire Wire Line
+	10800 1350 11250 1350
+Text Label 11300 1750 2    60   ~ 0
+KANA_LED
+Text Label 11250 1350 2    60   ~ 0
+PRT_BUSY
+Wire Wire Line
+	10800 1750 11300 1750
+Wire Wire Line
+	2700 5900 3250 5900
+Wire Wire Line
+	2700 5800 3250 5800
+Wire Wire Line
+	2700 5700 3250 5700
+Text Label 2700 5800 0    60   ~ 0
+~PRT_STB_WR
+Text Label 2700 5700 0    60   ~ 0
+~PRT_CMD_CS
+Text Label 2700 5900 0    60   ~ 0
+~PRT_BSY_RD
+Wire Wire Line
+	9200 6650 9650 6650
+Text Label 9200 6650 0    60   ~ 0
+~SLTSL3
+$Sheet
+S 6350 5650 1000 1350
+U 5BD9DA3D
+F0 "VDP" 60
+F1 "Ultra-MSX_VDP.sch" 60
+F2 "~RESET" I R 7350 5850 60 
+F3 "~VDP_INT" O L 6350 6150 60 
+F4 "~VDP_WAIT" O L 6350 6000 60 
+F5 "AUDIO" I R 7350 6050 60 
+F6 "~VDP_RD" I L 6350 5800 60 
+F7 "~VDP_WR" I L 6350 5900 60 
+F8 "CSYNC_JPR" I L 6350 6500 60 
+F9 "PALCLK_JPR" I L 6350 6400 60 
+F10 "PAL_CLK_IN" I L 6350 6600 60 
+F11 "PAL_CLK_OUT" I L 6350 6700 60 
+F12 "CLK_VDP" O R 7350 5950 60 
+F13 "A[0..31]" I R 7350 5700 60 
+F14 "D[0..15]" B R 7350 6200 60 
+$EndSheet
+Wire Wire Line
+	3250 8250 2800 8250
+Text Label 2800 8250 0    60   ~ 0
+~SLTSL3
+Wire Wire Line
+	2800 5050 3250 5050
+Wire Wire Line
+	2800 4950 3250 4950
+Wire Wire Line
+	2800 5150 3250 5150
+Wire Wire Line
+	2800 5250 3250 5250
+Wire Wire Line
+	5000 3150 4600 3150
+Wire Wire Line
+	5000 3050 4600 3050
+Text Label 2800 5150 0    60   ~ 0
+JOY_RGT
+Text Label 2800 5250 0    60   ~ 0
+JOY_LFT
+Text Label 2800 5050 0    60   ~ 0
+JOY_TRG2
+Text Label 2800 4950 0    60   ~ 0
+JOY_TRG1
+Text Label 5000 3150 2    60   ~ 0
+JOY_BCK
+Text Label 5000 3050 2    60   ~ 0
+JOY_FWD
+Connection ~ 14700 9200
+Connection ~ 15100 9200
+Wire Wire Line
+	15100 9200 15350 9200
+Wire Wire Line
+	14500 9200 14700 9200
+Wire Wire Line
+	14700 9200 14900 9200
+Text Label 2750 3650 0    60   ~ 0
+CAPS_LED
+Wire Wire Line
+	2750 3650 3250 3650
+Wire Bus Line
+	9450 7550 9650 7550
+Text Label 2800 8350 0    60   ~ 0
+~BUSDIR3
+Wire Wire Line
+	3250 8350 2800 8350
+Text Label 9200 6750 0    60   ~ 0
+~BUSDIR3
+Wire Wire Line
+	9650 6750 9200 6750
+Text Label 5050 3950 2    60   ~ 0
+~PAGE_RD
+Text Label 5050 4050 2    60   ~ 0
+~PAGE_WR
+Wire Wire Line
+	5050 3950 4600 3950
+Wire Wire Line
+	5050 4050 4600 4050
+Wire Bus Line
+	7450 3600 8350 3600
+Wire Wire Line
+	6350 3900 5950 3900
+Text Label 11300 1950 2    60   ~ 0
+CAPS_LED
+Wire Wire Line
+	10800 1950 11300 1950
+Text Label 5100 850  2    60   ~ 0
+~RTC_CS
+Wire Wire Line
+	5100 850  4600 850 
+Text Label 5950 2050 0    60   ~ 0
+~RTC_CS
+Wire Wire Line
+	5950 2050 6350 2050
+Wire Bus Line
+	7350 950  8350 950 
+Text Label 2700 6000 0    60   ~ 0
+~STROBE
+Wire Wire Line
+	2700 6000 3250 6000
+$Sheet
+S 6350 3500 1100 1850
+U 5BD9D8C5
+F0 "Memory" 60
+F1 "Ultra-MSX_RAM.sch" 60
+F2 "~RAM_SL" O L 6350 4250 60 
+F3 "~PAGE_CS" O L 6350 4150 60 
+F4 "~PAGE_RD" I L 6350 3900 60 
+F5 "~PAGE_WR" I L 6350 3800 60 
+F6 "RAM_SIZE[1..3]" I L 6350 4500 50 
+F7 "~RAM_CS[0..7]" I L 6350 4350 60 
+F8 "~ROM_CS" I R 7450 3850 60 
+F9 "~MEM_RD" O R 7450 4600 60 
+F10 "~MEM_WR" I R 7450 4700 60 
+F11 "A[0..31]" I L 6350 3600 60 
+F12 "~BHEN" I R 7450 4400 60 
+F13 "~BLEN" I R 7450 4500 60 
+F14 "~UMCS" I R 7450 4800 60 
+F15 "~LMCS" I R 7450 4900 60 
+F16 "~RAS0" I R 7450 5000 60 
+F17 "~CAS0" I R 7450 5200 60 
+F18 "~RAS1" I R 7450 5100 60 
+F19 "~MSIZE" O L 6350 4000 60 
+F20 "D[0..15]" B R 7450 3600 60 
+$EndSheet
+Text Label 7850 4600 2    60   ~ 0
+~MEM_RD
+Wire Wire Line
+	7450 4600 7850 4600
+$Comp
+L LRJ-parts:Aavid_Heatsink_2Pin HS1
+U 1 1 61D52212
+P 15450 8950
+F 0 "HS1" H 15350 9100 50  0000 L CNN
+F 1 "Aavid_Heatsink_2Pin" H 14950 8800 50  0001 L CNN
+F 2 "LRJ:Heatsink_35x35mm_SpringFixation" H 15500 8575 50  0001 C CNN
+F 3 "https://www.boydcorp.com/aavid-datasheets/Board-Level-Cooling-3747.pdf" H 15462 8900 50  0001 C CNN
+F 4 "374724B60024G" H 16325 9000 50  0001 C CNN "MPN"
+F 5 "Aavid, Thermal Division of Boyd Corporation" H 16850 9150 50  0001 C CNN "Manufacturer"
+	1    15450 8950
+	1    0    0    -1  
+$EndComp
+Text Label 5950 1150 0    50   ~ 0
+~INT
+Wire Wire Line
+	5950 1150 6350 1150
+Text Label 2850 850  0    60   ~ 0
+~INT
+Wire Wire Line
+	2850 850  3250 850 
+Wire Wire Line
+	5950 1950 6350 1950
+Text Label 5950 1950 0    61   ~ 0
+~WAIT
+Wire Wire Line
+	2850 2050 3250 2050
+Text Label 2850 2050 0    60   ~ 0
+~WAIT
+Text Label 9250 4750 0    60   ~ 0
+~B_WR
+Text Label 9250 4450 0    60   ~ 0
+~B_MREQ
+Text Label 9250 4850 0    60   ~ 0
+~B_RFSH
+Text Label 9250 4150 0    60   ~ 0
+~B_RESET
+Wire Wire Line
+	9650 4250 9250 4250
+Wire Wire Line
+	9650 4150 9250 4150
+Wire Wire Line
+	9650 4850 9250 4850
+Wire Wire Line
+	9650 4450 9250 4450
+Wire Wire Line
+	9650 4750 9250 4750
+Wire Wire Line
+	9650 4350 9250 4350
+Wire Wire Line
+	9650 4550 9250 4550
+Text Label 9250 4550 0    60   ~ 0
+~B_IORQ
+Text Label 9250 4350 0    60   ~ 0
+~B_M1
+Text Label 9250 4650 0    60   ~ 0
+~B_RD
+Wire Wire Line
+	9650 4650 9250 4650
+Text Label 9250 4250 0    60   ~ 0
+B_CLK
+Text Label 2850 6850 0    60   ~ 0
+~B_WR
+Text Label 2850 6550 0    60   ~ 0
+~B_MREQ
+Text Label 2850 6350 0    60   ~ 0
+~B_RFSH
+Text Label 2850 6950 0    60   ~ 0
+~B_RESET
+Wire Wire Line
+	3250 7050 2850 7050
+Wire Wire Line
+	3250 6950 2850 6950
+Wire Wire Line
+	3250 6350 2850 6350
+Wire Wire Line
+	3250 6550 2850 6550
+Wire Wire Line
+	3250 6850 2850 6850
+Wire Wire Line
+	3250 6450 2850 6450
+Wire Wire Line
+	3250 6650 2850 6650
+Text Label 2850 6650 0    60   ~ 0
+~B_IORQ
+Text Label 2850 6450 0    60   ~ 0
+~B_M1
+Text Label 2850 6750 0    60   ~ 0
+~B_RD
+Wire Wire Line
+	3250 6750 2850 6750
+Text Label 2850 7050 0    60   ~ 0
+B_CLK
+Wire Notes Line
+	14800 600  14800 4150
+Wire Notes Line
+	14800 4150 15950 4150
+Wire Notes Line
+	15950 4150 15950 600 
+Wire Notes Line
+	15950 600  14800 600 
+Text Notes 14850 950  0    60   Italic 12
+A[0..31] \n
+Text Notes 14850 1200 0    50   ~ 0
+CPU address \nrange 0-15.\n
+Wire Notes Line
+	14850 800  15900 800 
+Wire Notes Line
+	14850 1250 15900 1250
+Text Notes 14850 1600 0    50   ~ 0
+Buffered \nAdress range.\n
+Text Notes 14850 1400 0    60   Italic 12
+BA[0..15]\n
+Text Label 5000 7550 2    60   ~ 0
+~CS1
+Text Label 5000 7900 2    60   ~ 0
+~CS2
+Text Label 5000 8250 2    60   ~ 0
+~CS12
+Wire Wire Line
+	4600 7900 5000 7900
+Wire Wire Line
+	4600 7550 5000 7550
+Wire Wire Line
+	4600 8250 5000 8250
+Wire Bus Line
+	10800 2250 11350 2250
+$Sheet
+S 9700 1250 1100 2500
+U 5BF99F40
+F0 "Peripherals" 60
+F1 "Ultra-MSX_Peripherals.sch" 60
+F2 "SLT1_SND" I L 9700 1350 60 
+F3 "SLT2_SND" I L 9700 1450 60 
+F4 "KEY_CLICK" I R 10800 2150 60 
+F5 "CAS_MOT" I L 9700 1950 60 
+F6 "CAS_OUT" I L 9700 2050 60 
+F7 "PSG_SND" I L 9700 1650 60 
+F8 "CAS_IN" O L 9700 2150 60 
+F9 "AUDIO" O L 9700 1750 60 
+F10 "PRT_BUSY" I R 10800 1350 60 
+F11 "COL[0..7]" I R 10800 2250 60 
+F12 "CAPS_LED" I R 10800 1950 60 
+F13 "~STROBE" I R 10800 1450 60 
+F14 "KEY_DIR" I R 10800 1850 60 
+F15 "JOY_SEL" I R 10800 3000 60 
+F16 "~TRG1_A" I L 9700 2550 60 
+F17 "~TRG1_B" I L 9700 2650 60 
+F18 "~TRG2_A" I L 9700 2750 60 
+F19 "~TRG2_B" I L 9700 2850 60 
+F20 "~BCK_B" I L 9700 2950 60 
+F21 "~BCK_A" I L 9700 3050 60 
+F22 "~RGT_B" I L 9700 3150 60 
+F23 "~RGT_A" I L 9700 3250 60 
+F24 "~LFT_B" I L 9700 3450 60 
+F25 "~LFT_A" I L 9700 3350 60 
+F26 "~FWD_B" I L 9700 3550 60 
+F27 "~FWD_A" I L 9700 3650 60 
+F28 "JOY_FWD" I R 10800 3250 60 
+F29 "JOY_BCK" I R 10800 3350 60 
+F30 "JOY_LFT" I R 10800 3150 60 
+F31 "JOY_RGT" I R 10800 3450 60 
+F32 "JOY_TRG1" I R 10800 3550 60 
+F33 "JOY_TRG2" I R 10800 3650 60 
+F34 "SLT3_SND" I L 9700 1550 60 
+F35 "KBD_TYPE" I R 10800 2050 60 
+F36 "JOY_OUT_B" I R 10800 2900 60 
+F37 "JOY_OUT_A" I R 10800 2800 60 
+F38 "KANA_LED" I R 10800 1750 60 
+F39 "PD[0..7]" O R 10800 1550 60 
+$EndSheet
+Text Label 2750 3950 0    60   ~ 0
+KEY_DIR
+Wire Wire Line
+	2750 3950 3250 3950
+Text Label 11300 1850 2    60   ~ 0
+KEY_DIR
+Wire Wire Line
+	10800 1450 11250 1450
+Text Label 11250 1450 2    60   ~ 0
+~STROBE
+Text Label 12700 1200 0    60   ~ 0
+CLK_PSG
+Wire Wire Line
+	12700 1200 13200 1200
+Text Label 5050 9350 2    60   ~ 0
+CLK_PSG
+Wire Wire Line
+	5050 9350 4600 9350
+Wire Wire Line
+	6350 6600 5750 6600
+Text Label 5750 6600 0    60   ~ 0
+PAL_CLK_IN
+Text Label 5750 6700 0    60   ~ 0
+PAL_CLK_OUT
+Wire Wire Line
+	5750 6700 6350 6700
+Wire Wire Line
+	4600 6150 5200 6150
+Text Label 5200 6150 2    60   ~ 0
+PAL_CLK_IN
+Text Label 5200 6250 2    60   ~ 0
+PAL_CLK_OUT
+Wire Wire Line
+	5200 6250 4600 6250
+Text Label 9200 6850 0    60   ~ 0
+SLT3_SND
+Wire Wire Line
+	9200 6850 9650 6850
+Text Label 2800 8450 0    60   ~ 0
+SLT3_SND
+Wire Wire Line
+	2800 8450 3250 8450
+Text Notes 14250 6400 0    60   ~ 0
+Tips:\n-------\n1. Specify different Resets?
+Wire Bus Line
+	8300 950  8350 950 
+$Sheet
+S 9650 4050 1050 3600
+U 5BEF1964
+F0 "Slots" 60
+F1 "Ultra-MSX_Slots.sch" 60
+F2 "~SLT_INT" O L 9650 5350 60 
+F3 "~SLTSL1" I L 9650 5650 60 
+F4 "~SLTSL2" I L 9650 6150 60 
+F5 "SLT1_SND" O L 9650 5850 60 
+F6 "SLT2_SND" O L 9650 6350 60 
+F7 "~BUSDIR1" O L 9650 5750 60 
+F8 "~BUSDIR2" O L 9650 6250 60 
+F9 "BD[0..7]" B L 9650 7400 60 
+F10 "BA[0..15]" B L 9650 7550 60 
+F11 "~SLTSL3" I L 9650 6650 60 
+F12 "~BUSDIR3" O L 9650 6750 60 
+F13 "~SLT_WAIT" I L 9650 5250 60 
+F14 "~B_RFSH" I L 9650 4850 60 
+F15 "~B_M1" I L 9650 4350 60 
+F16 "~B_MREQ" I L 9650 4450 60 
+F17 "~B_IORQ" I L 9650 4550 60 
+F18 "~B_RD" I L 9650 4650 60 
+F19 "~B_WR" I L 9650 4750 60 
+F20 "~B_RESET" I L 9650 4150 60 
+F21 "B_CLK" I L 9650 4250 60 
+F22 "~CS2" I L 9650 6050 60 
+F23 "~CS1" I L 9650 5550 60 
+F24 "~CS12" I L 9650 6550 60 
+F25 "SLT3_SND" O L 9650 6850 60 
+$EndSheet
+Wire Bus Line
+	9250 7400 9650 7400
+Wire Bus Line
+	7350 6200 8350 6200
+Wire Wire Line
+	10800 1850 11300 1850
+Wire Bus Line
+	11750 9000 11750 1550
+Wire Bus Line
+	11750 1550 10800 1550
+Wire Bus Line
+	4600 7250 8350 7250
+Wire Bus Line
+	4600 8550 9250 8550
+Wire Bus Line
+	4600 8850 11350 8850
+Wire Bus Line
+	4600 9000 11750 9000
+Wire Notes Line
+	500  10000 11750 10000
+$Sheet
+S 3250 700  1350 9150
+U 629D6FC0
+F0 "MSX Engine" 60
+F1 "Engine_FPGA.sch" 60
+F2 "~SLTSL1" O L 3250 7550 60 
+F3 "~SLTSL2" O L 3250 7900 60 
+F4 "~RD" I L 3250 1050 60 
+F5 "~WR" I L 3250 1150 60 
+F6 "~MREQ" I L 3250 1250 60 
+F7 "~IORQ" I L 3250 1350 60 
+F8 "~RFSH" I L 3250 1450 60 
+F9 "~RESET" I L 3250 1900 60 
+F10 "RESET" I L 3250 1750 60 
+F11 "KEY_CLICK" O L 3250 3850 60 
+F12 "CAS_MOT" O L 3250 2950 60 
+F13 "CAS_OUT" O L 3250 3050 60 
+F14 "PRT_BUSY" I L 3250 6100 60 
+F15 "~VDP_WAIT" O R 4600 6550 60 
+F16 "AUDIO" I R 4600 9450 60 
+F17 "~PSG_CS" I R 4600 9550 60 
+F18 "PSG_SND" O R 4600 9650 60 
+F19 "CAS_IN" I L 3250 2850 60 
+F20 "~M1" O L 3250 950 60 
+F21 "~SLT_INT" I L 3250 7300 60 
+F22 "~BUSDIR1" I L 3250 7650 60 
+F23 "~BUSDIR2" I L 3250 8000 60 
+F24 "~KBD_WAIT" O L 3250 3550 60 
+F25 "SLT1_SND" O L 3250 7750 60 
+F26 "SLT2_SND" O L 3250 8100 60 
+F27 "~VDP_WR" I R 4600 6450 60 
+F28 "PALCLK_JPR" I R 4600 6650 60 
+F29 "JOY_SEL" I L 3250 4450 60 
+F30 "BD[0..7]" B R 4600 8550 60 
+F31 "BA[0..15]" B R 4600 8650 60 
+F32 "~TRG2_B" I L 3250 4850 60 
+F33 "~TRG2_A" I L 3250 4750 60 
+F34 "~TRG1_B" I L 3250 4650 60 
+F35 "~TRG1_A" I L 3250 4550 60 
+F36 "JOY_TRG2" I L 3250 5050 60 
+F37 "JOY_TRG1" I L 3250 4950 60 
+F38 "JOY_RGT" I L 3250 5150 60 
+F39 "JOY_LFT" I L 3250 5250 60 
+F40 "JOY_BCK" I R 4600 3150 60 
+F41 "JOY_FWD" I R 4600 3050 60 
+F42 "~PRT_CMD_CS" I L 3250 5700 60 
+F43 "~PRT_STB_WR" I L 3250 5800 60 
+F44 "~PRT_BSY_RD" I L 3250 5900 60 
+F45 "COL[0..7]" I R 4600 8850 60 
+F46 "~SLTSL3" I L 3250 8250 60 
+F47 "~BUSDIR3" O L 3250 8350 60 
+F48 "~VDP_RD" I R 4600 6350 60 
+F49 "CAPS_LED" I L 3250 3650 60 
+F50 "~RTC_CS" I R 4600 850 60 
+F51 "~BCK_B" I R 4600 2250 60 
+F52 "~BCK_A" I R 4600 2350 60 
+F53 "~RGT_B" I R 4600 2450 60 
+F54 "~RGT_A" I R 4600 2550 60 
+F55 "~LFT_B" I R 4600 2650 60 
+F56 "~LFT_A" I R 4600 2750 60 
+F57 "~FWD_B" I R 4600 2850 60 
+F58 "~FWD_A" I R 4600 2950 60 
+F59 "~STROBE" I L 3250 6000 60 
+F60 "~SLT_WAIT" I L 3250 7400 60 
+F61 "~MEM_RD" O R 4600 3750 60 
+F62 "~PAGE_RD" I R 4600 3950 60 
+F63 "~PAGE_WR" I R 4600 4050 60 
+F64 "~RAM_SL" O R 4600 4150 60 
+F65 "~PAGE_CS" O R 4600 4250 60 
+F66 "~INT" I L 3250 850 60 
+F67 "~WAIT" I L 3250 2050 60 
+F68 "~B_RFSH" I L 3250 6350 60 
+F69 "~B_M1" I L 3250 6450 60 
+F70 "~B_MREQ" I L 3250 6550 60 
+F71 "~B_IORQ" I L 3250 6650 60 
+F72 "~B_RD" I L 3250 6750 60 
+F73 "~B_WR" I L 3250 6850 60 
+F74 "~B_RESET" I L 3250 6950 60 
+F75 "B_CLK" I L 3250 7050 60 
+F76 "~CS2" I R 4600 7900 60 
+F77 "~CS1" I R 4600 7550 60 
+F78 "~CS12" I R 4600 8250 60 
+F79 "KEY_DIR" I L 3250 3950 60 
+F80 "CLK_PSG" I R 4600 9350 60 
+F81 "PAL_CLK_IN" I R 4600 6150 60 
+F82 "PAL_CLK_OUT" I R 4600 6250 60 
+F83 "SLT3_SND" O L 3250 8450 60 
+F84 "RAM_SIZE[1..3]" I R 4600 4500 60 
+F85 "~RAM_CS[0..7]" I R 4600 4350 60 
+F86 "JOY_OUT_B" I L 3250 4350 60 
+F87 "JOY_OUT_A" I L 3250 4250 60 
+F88 "KANA_LED" I L 3250 3750 60 
+F89 "PD[0..7]" O R 4600 9000 60 
+F90 "~ROM_CS" I L 3250 3250 60 
+F91 "~AUD_INT" O R 4600 9250 60 
+F92 "SMDAT[1..3]" I R 4600 9750 60 
+F93 "~MEM_WR" I R 4600 3850 60 
+F94 "A[0..31]" I R 4600 3400 60 
+F95 "CLK_BUS" O R 4600 1850 60 
+F96 "CLK_IO" O R 4600 1750 60 
+F97 "~HALT" I L 3250 2200 60 
+F98 "D[0..15]" B R 4600 7250 60 
+$EndSheet
+Wire Bus Line
+	4600 8650 9450 8650
+Wire Bus Line
+	4600 3400 5450 3400
+Wire Bus Line
+	5450 3050 6350 3050
+Wire Wire Line
+	5950 3800 6350 3800
+Text Label 5950 3900 0    60   ~ 0
+~PAGE_RD
+Text Label 5950 3800 0    60   ~ 0
+~PAGE_WR
+Wire Bus Line
+	6350 3600 5450 3600
+Wire Bus Line
+	7350 5700 8100 5700
+Connection ~ 5450 3400
+Wire Bus Line
+	5450 3400 5450 3600
+Text Label 7750 5950 2    60   ~ 0
+CLK_VDP
+Wire Wire Line
+	7350 5950 7750 5950
+Text Label 7900 1400 2    60   ~ 0
+CLK_VDP
+Wire Wire Line
+	7350 1400 7900 1400
+Wire Wire Line
+	5950 1450 6350 1450
+Text Label 5950 1450 0    60   ~ 0
+CLK_BUS
+Text Label 5900 6150 0    60   ~ 0
+~VDP_INT
+Wire Wire Line
+	5900 6150 6350 6150
+Text Label 11300 3000 2    60   ~ 0
+JOY_SEL
+Wire Wire Line
+	10800 3000 11300 3000
+Wire Wire Line
+	13200 1850 12700 1850
+Text Label 12700 1850 0    60   ~ 0
+FMAR_SND
+Wire Bus Line
+	9450 7550 9450 8650
+Wire Bus Line
+	9250 7400 9250 8550
+Wire Wire Line
+	9300 2850 9700 2850
+Wire Wire Line
+	9300 2750 9700 2750
+Wire Wire Line
+	9300 2650 9700 2650
+Wire Wire Line
+	9300 2550 9700 2550
+Text Label 9300 2850 0    60   ~ 0
+~TRG2_B
+Text Label 9300 2750 0    60   ~ 0
+~TRG2_A
+Text Label 9300 2650 0    60   ~ 0
+~TRG1_B
+Text Label 9300 2550 0    60   ~ 0
+~TRG1_A
+Wire Wire Line
+	9300 2950 9700 2950
+Wire Wire Line
+	9300 3050 9700 3050
+Wire Wire Line
+	9300 3150 9700 3150
+Wire Wire Line
+	9300 3250 9700 3250
+Wire Wire Line
+	9300 3450 9700 3450
+Wire Wire Line
+	9300 3350 9700 3350
+Wire Wire Line
+	9300 3550 9700 3550
+Wire Wire Line
+	9300 3650 9700 3650
+Text Label 9300 3250 0    60   ~ 0
+~RGT_A
+Text Label 9300 3150 0    60   ~ 0
+~RGT_B
+Text Label 9300 3350 0    60   ~ 0
+~LFT_A
+Text Label 9300 3450 0    60   ~ 0
+~LFT_B
+Text Label 9300 2950 0    60   ~ 0
+~BCK_B
+Text Label 9300 3050 0    60   ~ 0
+~BCK_A
+Text Label 9300 3550 0    60   ~ 0
+~FWD_B
+Text Label 9300 3650 0    60   ~ 0
+~FWD_A
+Text Label 11250 3250 2    60   ~ 0
+JOY_FWD
+Text Label 11250 3350 2    60   ~ 0
+JOY_BCK
+Text Label 11250 3450 2    60   ~ 0
+JOY_RGT
+Text Label 11250 3150 2    60   ~ 0
+JOY_LFT
+Text Label 11250 3550 2    60   ~ 0
+JOY_TRG1
+Text Label 11250 3650 2    60   ~ 0
+JOY_TRG2
+Wire Wire Line
+	10800 3250 11250 3250
+Wire Wire Line
+	10800 3350 11250 3350
+Wire Wire Line
+	10800 3150 11250 3150
+Wire Wire Line
+	10800 3450 11250 3450
+Wire Wire Line
+	10800 3550 11250 3550
+Wire Wire Line
+	10800 3650 11250 3650
+Wire Wire Line
+	9700 1550 9200 1550
+Text Label 9200 1550 0    60   ~ 0
+SLT3_SND
+Text Label 9200 1650 0    60   ~ 0
+PSG_SND
+Wire Wire Line
+	9700 1650 9200 1650
+Text Label 11300 2150 2    60   ~ 0
+KEY_CLICK
+Wire Wire Line
+	10800 2150 11300 2150
+Text Label 11300 2050 2    60   ~ 0
+KBD_TYPE
+Wire Wire Line
+	10800 2050 11300 2050
+Text Label 11300 2800 2    60   ~ 0
+JOY_OUT_A
+Text Label 11300 2900 2    60   ~ 0
+JOY_OUT_B
+Wire Wire Line
+	11300 2800 10800 2800
+Wire Wire Line
+	11300 2900 10800 2900
+Text Label 12700 2050 0    60   ~ 0
+~RESET
+Wire Wire Line
+	12700 2050 13200 2050
+Text Label 2750 4250 0    60   ~ 0
+JOY_OUT_A
+Text Label 2750 4350 0    60   ~ 0
+JOY_OUT_B
+Wire Wire Line
+	2750 4250 3250 4250
+Wire Wire Line
+	2750 4350 3250 4350
+Wire Bus Line
+	5450 3050 5450 3400
+Text Label 2850 3250 0    60   ~ 0
+~ROM_CS
+Wire Wire Line
+	3250 3250 2850 3250
+Connection ~ 8350 950 
+Wire Bus Line
+	8350 950  8350 3600
+Wire Bus Line
+	14050 1050 14350 1050
+Wire Bus Line
+	14350 1050 14350 600 
+Wire Bus Line
+	14350 600  5450 600 
+Wire Bus Line
+	5450 600  5450 3050
+Connection ~ 5450 3050
+Wire Wire Line
+	14450 1300 14050 1300
+Wire Wire Line
+	14450 1200 14050 1200
+Text Label 14450 1300 2    60   ~ 0
+~WR
+Text Label 14450 1200 2    60   ~ 0
+~RD
+$Sheet
+S 13200 850  850  1750
+U 5BD9DBB3
+F0 "Audio" 60
+F1 "Ultra-MSX_Audio.sch" 60
+F2 "~PSG_CS" I L 13200 1550 60 
+F3 "PSG_SND" O L 13200 1750 60 
+F4 "CLK_PSG" I L 13200 1200 60 
+F5 "FMAR_SND" I L 13200 1850 60 
+F6 "~RESET" I L 13200 2050 60 
+F7 "~RD" I R 14050 1200 60 
+F8 "~WR" I R 14050 1300 60 
+F9 "~AUD_INT" O L 13200 2150 60 
+F10 "A[0..31]" I R 14050 1050 60 
+F11 "D[0..15]" B L 13200 950 60 
+F12 "SMDAT[1..3]" I L 13200 2450 60 
+$EndSheet
+Connection ~ 8350 3600
+Wire Bus Line
+	8350 3600 8350 6200
+Connection ~ 8350 6200
+Wire Bus Line
+	8350 6200 8350 7250
+Wire Bus Line
+	4600 4350 5850 4350
+Wire Bus Line
+	11350 2250 11350 8850
+Text Notes 14300 8350 0    60   ~ 0
+USB-chips\nR5F10JGCAFB#V0\nNUC123LD4AN0\n\nhttps://www.eevblog.com/forum/beginners/pro-ee_s-which-large-ic-manufacturers-make-you-cringe-no-docsno-supportetc/\n\nhttps://www.eevblog.com/forum/microcontrollers/really-thinking-to-quit-with-microchip/\n\nhttps://www.eevblog.com/forum/microcontrollers/great-dev-kit/\n\n\nATF1502ASV-15JU44\n(cpld)\n
+Wire Bus Line
+	8100 3400 5450 3400
+Wire Bus Line
+	8100 3400 8100 5700
+Text Notes 14250 6850 0    60   ~ 0
+Floppy drive:\nhttps://github.com/SukkoPera/OpenFlops
+Text Label 12750 2150 0    60   ~ 0
+~AUD_INT
+Wire Wire Line
+	13200 2150 12750 2150
+Text Label 5050 9250 2    60   ~ 0
+~AUD_INT
+Wire Wire Line
+	4600 9250 5050 9250
+Wire Wire Line
+	7450 4700 7850 4700
+Text Label 7850 4700 2    60   ~ 0
+~MEM_WR
+Text Label 7750 2750 2    60   ~ 0
+~MEM_RD
+Wire Wire Line
+	7350 2750 7750 2750
+Wire Wire Line
+	7350 2850 7750 2850
+Text Label 7750 2850 2    60   ~ 0
+~MEM_WR
+Text Label 7800 1100 2    60   ~ 0
+~AUD_INT
+Wire Wire Line
+	7350 1100 7800 1100
+Wire Wire Line
+	4600 3850 5000 3850
+Text Label 5000 3850 2    60   ~ 0
+~MEM_WR
+Wire Bus Line
+	13200 2450 12450 2450
+Wire Bus Line
+	12450 2450 12450 9750
+Wire Bus Line
+	12450 9750 4600 9750
+Text Label 7900 1300 2    60   ~ 0
+CLK_IO
+Wire Wire Line
+	7350 1300 7900 1300
+Text Label 5000 1850 2    60   ~ 0
+CLK_BUS
+Wire Wire Line
+	4600 1850 5000 1850
+Text Label 5000 1750 2    60   ~ 0
+CLK_IO
+Wire Wire Line
+	4600 1750 5000 1750
+Wire Wire Line
+	5950 1850 6350 1850
+Text Label 5950 1850 0    61   ~ 0
+~HALT
+Wire Wire Line
+	2900 2200 3250 2200
+Text Label 2900 2200 0    61   ~ 0
+~HALT
+Wire Wire Line
+	7350 2250 7750 2250
+Wire Wire Line
+	7350 2350 7750 2350
+Wire Wire Line
+	7350 2950 7750 2950
+Wire Wire Line
+	7350 3150 7750 3150
+Text Label 7750 2250 2    60   ~ 0
+~UMCS
+Text Label 7750 2350 2    60   ~ 0
+~LMCS
+Text Label 7750 2950 2    60   ~ 0
+~RAS0
+Text Label 7750 3150 2    60   ~ 0
+~CAS0
+Text Label 7750 2550 2    60   ~ 0
+~BLEN
+Wire Wire Line
+	7350 2550 7750 2550
+Text Label 7750 2450 2    60   ~ 0
+~BHEN
+Wire Wire Line
+	7350 2450 7750 2450
+Wire Bus Line
+	5850 2950 6350 2950
+Connection ~ 5850 4350
+Wire Bus Line
+	5850 4350 6350 4350
+Text Label 5950 4000 0    60   ~ 0
+~MSIZE
+Wire Wire Line
+	5950 4000 6350 4000
+Wire Bus Line
+	5850 2950 5850 4350
+Wire Wire Line
+	7450 5000 7850 5000
+Wire Wire Line
+	7450 5200 7850 5200
+Wire Wire Line
+	7450 5100 7850 5100
+Text Label 7850 5000 2    60   ~ 0
+~RAS0
+Text Label 7850 5100 2    60   ~ 0
+~RAS1
+Text Label 7850 5200 2    60   ~ 0
+~CAS0
+Wire Wire Line
+	7450 4800 7850 4800
+Wire Wire Line
+	7450 4900 7850 4900
+Text Label 7850 4800 2    60   ~ 0
+~UMCS
+Text Label 7850 4900 2    60   ~ 0
+~LMCS
+Text Label 7850 4500 2    60   ~ 0
+~BLEN
+Wire Wire Line
+	7450 4500 7850 4500
+Text Label 7850 4400 2    60   ~ 0
+~BHEN
+Wire Wire Line
+	7450 4400 7850 4400
+Text Label 6000 2350 0    60   ~ 0
+Z80M
+Wire Wire Line
+	6000 2350 6350 2350
+Wire Bus Line
+	8350 950  13200 950 
+Wire Bus Line
+	4600 4500 6350 4500
+$EndSCHEMATC
