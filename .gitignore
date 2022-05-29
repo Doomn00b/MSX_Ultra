@@ -23,3 +23,6 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+# Folder full of die-shots, that are too big.
+\Docs\Yamaha-Audio\Die-shots_yamaha\

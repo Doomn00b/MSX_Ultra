@@ -1,0 +1,11 @@
+AR checking written on:
+'C:\Users\Doomn00b\Desktop\Doku-backup1\Teknikprojekt\Hardware\MSX\MSX_Ultra\Hardware\Ultra-VDP\Ultra-VDP\Ultra-VDP_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.15
+PHD margin on PTH = 0
+
+VIAS that Pass = 12; Fails = 0
+TH PADS that Pass = 68; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0

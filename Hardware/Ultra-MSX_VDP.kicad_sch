@@ -4981,7 +4981,7 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 4583b099-356b-4a04-b729-523bb48053d4)
   )
-  (text "See 'Ultra-video' daughter-card \nfor schematics on connector."
+  (text "See 'Ultra-AV' daughter-card \nfor schematics on connector."
     (at 300.99 101.6 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 5e1d2303-dbe2-4ea9-a403-72aedad5a9c6)
@@ -5455,7 +5455,7 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 908dbf48-cf2c-4c24-af60-15eaa604ddbb)
   )
-  (label "SYNC" (at 365.76 142.875 0)
+  (label "CSYNC" (at 365.76 142.875 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 917e573e-5b11-4bc2-a12e-815adb820415)
   )
@@ -5776,7 +5776,7 @@
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 5e79d815-3e66-452c-bc9d-447f9c537736)
   )
-  (hierarchical_label "SYNC" (shape output) (at 373.38 142.875 0)
+  (hierarchical_label "CSYNC" (shape output) (at 373.38 142.875 0)
     (effects (font (size 1.524 1.524)) (justify left))
     (uuid 986a098d-ca64-4857-bead-8d741fc6614d)
   )

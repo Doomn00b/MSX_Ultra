@@ -1,0 +1,23 @@
+20 JUN 1999
+
+No changes, but the design is now partitioned into four sections:
+  CPU/DECODING  (sheet 1)
+  POWER/RESET   (sheet 2)
+  I/O FUNCTIONS (sheet 3)
+  and MEMORY    (sheet 4)
+
+To view or edit a different sheet, use the EAGLE command
+
+        EDIT .S2
+
+(for example, to edit sheet 2)
+
+The CPU component has been replaced by a "pod." The CPU will
+be soldered onto a satellite board, which will plug into the pod.
+I'll post the EAGLE library for the pod footprint some time soon.
+
+Shortly, I will make some of the small satellite boards available, with
+the Z380 mounted, and wire-wrapping posts for each pin.  Ultimately,
+these same boards will plug into header plugs on the main PCB, or can
+be soldered into the thru-holes with wire-wrap pins on the main PCB.
+

@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Ultra-MSX")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Ultra-MSX.kicad_sym")(options "")(descr ""))
+  (lib (name "HSEC8-130-01-X-DV-A")(type "KiCad")(uri "${KIPRJMOD}/Libraries/HSEC8-130-01-S-DV-A-TR/HSEC8-130-01-X-DV-A.kicad_sym")(options "")(descr ""))
 )

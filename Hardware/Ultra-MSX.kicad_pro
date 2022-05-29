@@ -398,76 +398,7 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Addressing",
-        "nets": [
-          "/Audio/A2",
-          "/Audio/A3",
-          "/Audio/PA10",
-          "/Audio/PA11",
-          "/Audio/PA8",
-          "/Audio/PA9",
-          "/Audio/RA20",
-          "/Audio/RA21",
-          "/Audio/RA22",
-          "/Audio/RA23",
-          "/Audio/RA8",
-          "/Audio/RA9",
-          "/MSX Engine/A0",
-          "/MSX Engine/A1",
-          "/MSX Engine/A10",
-          "/MSX Engine/A11",
-          "/MSX Engine/A12",
-          "/MSX Engine/A13",
-          "/MSX Engine/A14",
-          "/MSX Engine/A15",
-          "/MSX Engine/A16",
-          "/MSX Engine/A17",
-          "/MSX Engine/A18",
-          "/MSX Engine/A19",
-          "/MSX Engine/A2",
-          "/MSX Engine/A20",
-          "/MSX Engine/A21",
-          "/MSX Engine/A22",
-          "/MSX Engine/A23",
-          "/MSX Engine/A24",
-          "/MSX Engine/A25",
-          "/MSX Engine/A26",
-          "/MSX Engine/A27",
-          "/MSX Engine/A28",
-          "/MSX Engine/A29",
-          "/MSX Engine/A3",
-          "/MSX Engine/A30",
-          "/MSX Engine/A31",
-          "/MSX Engine/A4",
-          "/MSX Engine/A5",
-          "/MSX Engine/A6",
-          "/MSX Engine/A7",
-          "/MSX Engine/A8",
-          "/MSX Engine/A9",
-          "/MSX Engine/BA0",
-          "/MSX Engine/BA1",
-          "/MSX Engine/BA10",
-          "/MSX Engine/BA11",
-          "/MSX Engine/BA12",
-          "/MSX Engine/BA13",
-          "/MSX Engine/BA14",
-          "/MSX Engine/BA15",
-          "/MSX Engine/BA2",
-          "/MSX Engine/BA3",
-          "/MSX Engine/BA4",
-          "/MSX Engine/BA5",
-          "/MSX Engine/BA6",
-          "/MSX Engine/BA7",
-          "/MSX Engine/BA8",
-          "/MSX Engine/BA9",
-          "/VDP/VA0",
-          "/VDP/VA1",
-          "/VDP/VA2",
-          "/VDP/VA3",
-          "/VDP/VA4",
-          "/VDP/VA5",
-          "/VDP/VA6",
-          "/VDP/VA7"
-        ],
+        "nets": [],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 194, 194)",
         "track_width": 0.2,
@@ -487,9 +418,6 @@
         "name": "Five_Volt",
         "nets": [
           "+5V",
-          "/Power/VCC_DAC",
-          "/Power/VCC_PSG",
-          "/Power/VCC_ROM",
           "VCCRGB",
           "VCCVDP"
         ],
@@ -592,9 +520,7 @@
         "microvia_drill": 0.1,
         "name": "Three_Volt",
         "nets": [
-          "+3V3",
-          "/Audio/0.5_VDD",
-          "/Processor/Vbatt"
+          "+3V3"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
@@ -685,39 +611,39 @@
     ],
     [
       "00000000-0000-0000-0000-00006239acec",
-      "Power"
+      "POWER"
     ],
     [
       "00000000-0000-0000-0000-0000629d6fc0",
-      "MSX Engine"
+      "MSX ENGINE"
     ],
     [
       "00000000-0000-0000-0000-00005bd9d731",
-      "Processor"
+      "PROCESSOR"
     ],
     [
       "00000000-0000-0000-0000-00005bd9d8c5",
-      "Memory"
+      "MEMORY"
     ],
     [
       "00000000-0000-0000-0000-00005bd9da3d",
-      "VDP"
+      "VIDEO"
     ],
     [
       "00000000-0000-0000-0000-00005bef1964",
-      "Slots"
+      "SLOTS"
     ],
     [
       "00000000-0000-0000-0000-00005bf99f40",
-      "Peripherals"
+      "PERIPHERALS"
     ],
     [
       "00000000-0000-0000-0000-00005bd9dbb3",
-      "Audio"
+      "AUDIO"
     ],
     [
       "5eeaf2f1-7863-478c-8a0e-6eb904d4df29",
-      "Audio Amplifiers"
+      "AUDIO AMPLIFIERS"
     ]
   ],
   "text_variables": {}
