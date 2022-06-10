@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="license_field.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 41.574802 18.897637"
+   xml:space="preserve"
+   inkscape:export-filename="E:\Documents\Teknikprojekt\Hardware\MSX\MSX_Ultra\Docs\Design\Schema-Template-items\License_field.png"
+   inkscape:export-xdpi="1200"
+   inkscape:export-ydpi="1200"
+   width="11mm"
+   height="5mm"><metadata
+   id="metadata970"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs968" />
+<style
+   type="text/css"
+   id="style959">
+	.st0{opacity:0.994;enable-background:new    ;}
+	.st1{fill:#FFFFFF;}
+	.st2{font-family:'MSX-Screen0-narrow';}
+	.st3{font-size:10px;}
+</style>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="base"
+   inkscape:current-layer="layer1"
+   inkscape:cx="9.0671889"
+   inkscape:cy="12.37205"
+   inkscape:document-rotation="0"
+   inkscape:document-units="mm"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:window-height="1017"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1920"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:zoom="7.919596"
+   pagecolor="#ffffff"
+   showgrid="false"
+   units="mm">
+	</sodipodi:namedview>
+<g
+   id="layer2"
+   inkscape:groupmode="layer"
+   inkscape:label="Bg">
+	<rect
+   id="rect1406"
+   x="0"
+   y="0"
+   class="st0"
+   width="41.574802"
+   height="18.897636"
+   style="stroke-width:0.728076" />
+</g>
+<g
+   id="layer1"
+   inkscape:groupmode="layer"
+   inkscape:label="Text"
+   style="display:inline">
+	<text
+   class="st1 st2 st3"
+   id="text964"
+   x="5.09725"
+   y="14.405668"
+   style="font-size:12px;word-spacing:0px;stroke-width:1.00003"
+   transform="scale(0.9999673,1.0000327)"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'MSX Screen 0';-inkscape-font-specification:'MSX Screen 0, ';stroke-width:1.00003"
+     id="tspan972">License:</tspan></text>
+</g>
+</svg>

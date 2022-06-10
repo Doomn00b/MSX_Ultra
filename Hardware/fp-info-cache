@@ -1,4 +1,4 @@
-20534122401569104
+20552148945453388
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52100,6 +52100,62 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FP_tinyFPGA-G1
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+FP_tinyFPGA-G1
+Greenpak_TSSOP-20L_6.4x6.5mm_P0.65mm
+TSSOPL, 20 Pin, according to Silego/Dialog FPGA-packages
+TSSOP SO
+0
+20
+20
+FP_tinyFPGA-G1
+L_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+FP_tinyFPGA-G1
+Lattice_QFN-32-1EP_5x5mm_P0.5mm_EP3.2x3.2mm
+Lattice 32-Lead, quad-flat no-leads package - used in MachXO2 FPGAs. (based on, page 18: https://www.latticesemi.com/-/media/LatticeSemi/Documents/PinPackage/PackageDiagrams.ashx?la=en)
+QFN LATTICE PACKAGE
+0
+36
+33
+FP_tinyFPGA-G1
+Pin_Header_Straight_1x05_Pitch2.54mm
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+FP_tinyFPGA-G1
+Pin_Header_Straight_1x12_Pitch2.54mm
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+FP_tinyFPGA-G1
+Pin_Header_Straight_pin1round_1x12_Pitch2.54mm
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+FP_tinyFPGA-G1
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -58268,6 +58324,13 @@ R
 9
 9
 LRJ
+Relay_DPDT_AXICOM_IMSeries_GullWing
+TE Connectivity / Axicom SMD relay with Gull Wings. (Based on: https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773734-7_IM_Relay_I_Type&DocType=DS&DocLang=English)
+Relay or Contactor
+0
+8
+8
+LRJ
 Rotary_Encoder_Switched_PEC11R-lrj
 
 
@@ -58276,8 +58339,8 @@ Rotary_Encoder_Switched_PEC11R-lrj
 6
 LRJ
 SAMTEC_HSEC8-130-01-X-DV-A
-translated Allegro footprint
-
+Samtec edge card connector
+SMD SMT Samtec edge card
 0
 60
 60
@@ -58344,6 +58407,13 @@ SMD DIP Switch SPST Slide 8.9mm 350mil
 0
 12
 12
+LRJ
+Samtec_HSEC8-130-01_-X-DV-A_2x30_P0.8mm_Edge
+Highspeed card edge connector for PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
 LRJ
 Socket_VLB_EISA-combo
 Combined Vesa Local Bus and Extended Industry Standard Architecture, 32 bits Bus Card-Edge Socket
@@ -86260,6 +86330,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 7
 7
+Ultra-MSX
+Ultra-VDP-daughter
+Ultra-MSX VDP daughter-card (connectors only), 5x1x04, 1mm pitch, double row
+Through hole pin header THT 1x04 2.54mm single row
+0
+56
+56
 Ultra-MSX
 Ultra-video-daughter
 Ultra-MSX video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row

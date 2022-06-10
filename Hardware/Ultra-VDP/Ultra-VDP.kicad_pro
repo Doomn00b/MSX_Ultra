@@ -120,6 +120,7 @@
       },
       "track_widths": [
         0.0,
+        0.154,
         0.2,
         0.25,
         0.35,
@@ -146,7 +147,7 @@
           "drill": 0.4
         }
       ],
-      "zones_allow_external_fillets": false,
+      "zones_allow_external_fillets": true,
       "zones_use_no_outline": true
     },
     "layer_presets": []
@@ -549,8 +550,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "../Libraries/3D/Ultra-VDP.step",
+      "vrml": "Ultra-VDP.wrl"
     },
     "page_layout_descr_file": ""
   },
