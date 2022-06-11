@@ -20052,8 +20052,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a863))
-    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a863))
+    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a864))
+    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a864))
   )
 
   (symbol (lib_id "LRJ-parts:AD5144ABRUZ100") (at 220.98 119.38 0) (unit 6)

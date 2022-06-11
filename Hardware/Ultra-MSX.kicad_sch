@@ -5870,6 +5870,9 @@
     (path "/00000000-0000-0000-0000-00006239acec/a8fe1baf-f49b-4e21-b375-47085a3815b5"
       (reference "U15") (unit 3) (value "SN74ABT241APW") (footprint "Package_SO:TSSOP-56_6.1x14mm_P0.5mm")
     )
+    (path "/00000000-0000-0000-0000-00005bf99f40/734fd96a-64c7-4b29-9092-d3d3adef1f85"
+      (reference "U16") (unit 1) (value "LM211") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
     (path "/5eeaf2f1-7863-478c-8a0e-6eb904d4df29/da3a5e6c-62f8-4301-b09e-64295df4e5df"
       (reference "U18") (unit 1) (value "TL071HIDBV") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
@@ -5896,9 +5899,6 @@
     )
     (path "/00000000-0000-0000-0000-00005bd9dbb3/88dc3422-f76d-4696-8926-317caf79d0f8"
       (reference "U27") (unit 1) (value "FXMA108") (footprint "Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm")
-    )
-    (path "/00000000-0000-0000-0000-00005bf99f40/00000000-0000-0000-0000-00005bfd2d8a"
-      (reference "U49") (unit 1) (value "LM311") (footprint "Ultra-MSX:IC_DIP8_300")
     )
     (path "/00000000-0000-0000-0000-00005bd9d731/fd61c83a-8fbd-4879-a1e0-d5f62e6f19e6"
       (reference "Y2") (unit 1) (value "32768 Hz") (footprint "Ultra-MSX:Crystal_32K_Horiz")
