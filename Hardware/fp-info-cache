@@ -1,4 +1,4 @@
-20552160520413913
+20553859180588554
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58505,6 +58505,13 @@ fpc epaper
 0
 48
 24
+LRJ
+microSD_HC_GCT_MEM2061
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+12
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -86324,12 +86331,12 @@ TSOP-I SO
 48
 48
 Ultra-MSX
-Ultra-AUDIO-daughter
-Ultra-MSX video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
+Ultra-MIDI-daughter
+Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
-7
-7
+12
+12
 Ultra-MSX
 Ultra-VDP-daughter
 Ultra-MSX VDP daughter-card (connectors only), 5x1x04, 1mm pitch, double row
