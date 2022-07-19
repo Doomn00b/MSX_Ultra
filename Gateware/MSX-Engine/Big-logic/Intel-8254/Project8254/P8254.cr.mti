@@ -1,0 +1,36 @@
+{D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/ControlRegister.v} {1 {vlog -work work -stats=none {D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\ControlRegister.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ControlRegister
+
+Top level modules:
+	ControlRegister
+
+} {} {}} {D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter-1.v} {1 {vlog -work work -stats=none {D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Counter-1.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Chip8254.v} {1 {vlog -work work -stats=none {D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Chip8254.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Chip8254
+
+Top level modules:
+	Chip8254
+
+} {} {}} {D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Read_Write_Logic.v} {1 {vlog -work work -stats=none {D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Read_Write_Logic.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Read_Write
+
+Top level modules:
+	Read_Write
+
+} {} {}} {D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v} {1 {vlog -work work -stats=none {D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module counter_tb
+
+Top level modules:
+	counter_tb
+
+} {} {}}

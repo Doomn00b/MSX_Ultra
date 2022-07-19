@@ -26,3 +26,12 @@ _autosave-*
 
 # Folder full of die-shots, that are too big.
 \Docs\Yamaha-Audio\Die-shots_yamaha\
+
+#Back-up folders
+\Hardware\Ultra-MSX-backups\
+
+\Hardware\Ultra-AV\ultra-AV-backups\
+
+\Hardware\Ultra-Midi\Ultra-Midi-backups\
+
+\Hardware\Ultra-VDP\Ultra-VDP-backups\

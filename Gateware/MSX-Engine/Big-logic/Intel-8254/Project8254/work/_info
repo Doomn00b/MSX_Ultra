@@ -1,0 +1,160 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254
+vChip8254
+!s110 1463957988
+!i10b 1
+!s100 :W<IoVjR6KSlS5K?<`n]_3
+Ia<On<[0W6BVVIczlT2M`M1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1463957975
+8D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Chip8254.v
+FD:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Chip8254.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1463957988.000000
+!s107 D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Chip8254.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Chip8254.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@chip8254
+vControlRegister
+!s110 1463958024
+!i10b 1
+!s100 gPM=bF5_[1eP__MZ_ZjFZ1
+IjoBaGj4Z5aVKLAd<I<i@[0
+R1
+R0
+w1463958017
+8D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\ControlRegister.v
+FD:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\ControlRegister.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1463958024.000000
+!s107 D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\ControlRegister.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\ControlRegister.v|
+!s101 -O0
+!i113 1
+R3
+n@control@register
+vcounter
+!s110 1463957981
+!i10b 1
+!s100 @4@V^RBJPl_m3[YnSVmE20
+IkPPAU^L5n60_VU5ZJeD5z2
+R1
+R0
+w1463956233
+8D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Counter-1.v
+FD:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Counter-1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1463957981.000000
+!s107 D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Counter-1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Counter-1.v|
+!s101 -O0
+!i113 1
+R3
+vcounter1
+!s110 1463761310
+!i10b 1
+!s100 ie`O`b?GL?lkZGXT03KmQ1
+I3gL4H:hkaPIHa>XH0=z>;2
+R1
+R0
+w1463761275
+Z4 8D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter-1.v
+Z5 FD:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter-1.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1463761310.000000
+Z6 !s107 D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter-1.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter-1.v|
+!s101 -O0
+!i113 1
+R3
+vcounter3
+!s110 1463939573
+!i10b 1
+!s100 Ik=Wd=Pk^3I@V=PY@=IJI0
+IkMa^3]4XVDGiBS`eh9ERV0
+R1
+R0
+w1463939484
+R4
+R5
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1463939573.000000
+R6
+R7
+!s101 -O0
+!i113 1
+R3
+vcounter_tb
+Z8 !s110 1463948960
+!i10b 1
+!s100 DgKj>z<N?^g;[2n;aCAA70
+IdQM8R0ibiKRKPM^Q^[iB33
+R1
+R0
+w1463761329
+8D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v
+FD:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z9 !s108 1463948960.000000
+!s107 D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Others/LIFE/Study Life/CUFE - CHS/semester 6 - Spring 2016/CMPN111 - Logic Design-2/Project8254/Counter_Testbench.v|
+!s101 -O0
+!i113 1
+R3
+vRead_Write
+R8
+!i10b 1
+!s100 @N0D=ehTn0RA4:2:Uk[1K0
+IPQo<KJe^e@YkB]`>zlk^]1
+R1
+R0
+w1463262054
+8D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Read_Write_Logic.v
+FD:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Read_Write_Logic.v
+L0 1
+R2
+r1
+!s85 0
+31
+R9
+!s107 D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Read_Write_Logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Others\LIFE\Study Life\CUFE - CHS\semester 6 - Spring 2016\CMPN111 - Logic Design-2\Project8254\Read_Write_Logic.v|
+!s101 -O0
+!i113 1
+R3
+n@read_@write

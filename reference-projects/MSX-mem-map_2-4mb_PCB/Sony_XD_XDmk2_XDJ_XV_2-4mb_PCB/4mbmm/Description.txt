@@ -1,0 +1,16 @@
+4mb memory mapper for msx2 and msx2+ computers with real z80 chip.
+Memory registers and back annotation are supported. (c)2017 Andrey Koryakin
+
+
+Gerber files for pcbway.com (Very good and fast pcb service. Strong recommended!) - /Finish/4mbmmsony.zip
+Pcb size - 79.41mm x 77.20mm
+
+
+Low price SRAM chips HM628512ALFP-7 SOP32 here: 
+https://ru.aliexpress.com/wholesale?catId=0&initiative_id=SB_20171130090312&SearchText=HM628512ALFP-7
+
+
+
+
+
+

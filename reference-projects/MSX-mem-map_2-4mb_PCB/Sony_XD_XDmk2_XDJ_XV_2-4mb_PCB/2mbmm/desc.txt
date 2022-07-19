@@ -1,0 +1,14 @@
+2mb memory mapper for msx2 and msx2+ computers with real z80 chip.
+Memory registers and back annotation are supported.
+(c)2018 Andrey Koryakin
+
+
+
+sony2mbmm.eagle - EAGLE-8.2 project.
+sony2mbmm.lay6 - Layout 6 project (PCB tuning).
+sony2mbmm.zip - Gerber files for pcbway.com (Very good and fast PCB service. Strong recommended!)
+
+PCB dimension 71.0 x 54.3
+
+Low price SRAM chips HM628512ALFP-7 SOP32 here: 
+https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20171130090312&SearchText=HM628512ALFP-7

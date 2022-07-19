@@ -5252,6 +5252,11 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 446bf57c-8a66-4199-8c1c-73dc66bbce20)
   )
+  (text "Reset-design:\nhttps://semiengineering.com/respecting-reset/"
+    (at 266.7 172.72 0)
+    (effects (font (size 1.524 1.524)) (justify left bottom))
+    (uuid 7563c99e-a3f4-4102-9aab-636299949d78)
+  )
   (text "Power \nLED" (at 115.57 132.08 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 7e9fac07-616c-462e-8ca4-79f27c640b56)
@@ -5268,7 +5273,12 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid a43ae97f-ff8c-43dd-8d6d-82a22f1be9b5)
   )
-  (text "MSX-engine chips:\n------------\nPPI\n----\nv-7400 (four 2-input NAND)\n-7430 (x2) (8-input NAND)\n-7432 (x3) (four 2-input OR)\n-74273 (x2) (eight D-type flip-flop with reset; positive-edge trigger)\n-74540 (Octal buffer/line driver; inverting)\n-74541 (x3) (8-bit Buffer/Line Driver)\n-74153 (x2) (two 4-input multiplexer)\n-8255\n\nLogic:\n7x2 NAND + 4 NAND (18 NAND)\n4x3 OR (36 NAND) \n8x2 Flip-flop (96 NAND)\n1x8-bit buffer +8 NOT (47 NAND)\n3x8-bit buffer (117 NAND)\n2x Mul (168 NAND)\n2300 NAND\n\nTotal:\n2782 GATES\n--\n\nMemory\n-------\n-74138 (Decoder/demultiplexer, 3to8)\n-74245 (x2) (octal Bus Transceiver)\n\nLogic:\n1x Dmul (84 NAND)\n2x Tran (78 NAND)\n\nTotal:\n162 GATES\n--\n\nVDP-support:\n---\n7404 (hex inverter)\n\nLogic:\n6 NOT (6 NAND)\n\n\n--\n\nPSG\n---\n-7407 (hex-buffer)\n7474 (x3) (two D-type flip-flop with set & reset)\n7402 (four 2-input NOR)\n74157 x2 (four 2-input Multiplexer)\n\nLogic:\n1 buf (36 NAND)\n3x2 Flip-flop (36 NAND)\n4x NOR (16 NAND)\n--\nTotal:\n88 GATES\n\nCPU\n---\nRP5C01 (x1) (real-time clock)\nATF16V8B (x3) (SPLD, 8 macrocell)\n74175 (four D-type flip-flop with reset; positive-edge trigger)\n\nLogic:\nxx\n3x8 MAC (1800 NAND)\n4x Flip-Flop (24 NAND)\n\n----\nTOTAL GATES:\n4862 GATES\n@6 gates / LUT\n811 LUTs\n\nW. 25% overprovisioning\n6078 Gates\n1014 LUTs\n\nSuggested chips:\n5V:\n\nAT40K10-2DQU\nAT40K20-2EQJ (1024 LUTs)\n\n3.3V:\nXC95288XL-10BGG256C\nXC95288XL-7FGG256I\n\n--\n\nTOTAL IO:\n183 I/O\n\n\n----\nQUESTION:\n--\nHow many of the chips are already replaced via the Z280?\n\n\nAnalogue chips:\n-----------------\n74125 (four level-shifters - 3to5V)\nADM691A (Voltage monitor)\nCXA1645 (RGB encoder)\n"
+  (text "MEMORY MAPPING:\n----------------\n- have 512K available for direct addressing in combination with the standard FC/FD/FE/FF ports\n- make another port available(which can accept 8bit,16bit, 32bit or even larger page numbers..fed sequentially) \nfor some sub-switching to a larger memory.\n- to unload the processor with moving/clearing/copying one can add something as simple \nas a microcontroller to move the memory around."
+    (at 246.38 153.67 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid b7978c8f-28c4-4bee-8d35-de2e4398ca35)
+  )
+  (text "MSX-engine chips:\n------------\nPPI\n----\nv- 7400 (four 2-input NAND)\nv- 7430 (x2) (8-input NAND)\nv- 7432 (x3) (four 2-input OR)\nv- 74273 (x2) (eight D-type flip-flop with reset; positive-edge trigger)\n-74540 (Octal buffer/line driver; inverting)\n-74541 (x3) (8-bit Buffer/Line Driver)\nv- 74153 (x2) (two 4-input multiplexer)\nv- 8255\n\nLogic:\n7x2 NAND + 4 NAND (18 NAND)\n4x3 OR (36 NAND) \n8x2 Flip-flop (96 NAND)\n1x8-bit buffer +8 NOT (47 NAND)\n3x8-bit buffer (117 NAND)\n2x Mul (168 NAND)\n2300 NAND\n\nTotal:\n2782 GATES\n--\n\nMemory\n-------\nv- 74138 (Decoder/demultiplexer, 3to8)\n-74245 (x2) (octal Bus Transceiver)\n\nLogic:\n1x Dmul (84 NAND)\n2x Tran (78 NAND)\n\nTotal:\n162 GATES\n--\n\nVDP-support:\n---\nv- 7404 (hex inverter)\n\nLogic:\n6 NOT (6 NAND)\n\n\n--\n\nPSG\n---\nv- 7407 (hex-buffer)\nv- 7474 (x3) (two D-type flip-flop with set & reset)\nv- 7402 (four 2-input NOR)\nv- 74157 x2 (four 2-input Multiplexer)\n\nLogic:\n1 buf (36 NAND)\n3x2 Flip-flop (36 NAND)\n4x NOR (16 NAND)\n--\nTotal:\n88 GATES\n\nCPU\n---\nRP5C01 (x1) (real-time clock)\nATF16V8B (x3) (SPLD, 8 macrocell)\n74175 (four D-type flip-flop with reset; positive-edge trigger)\n\nLogic:\nxx\n3x8 MAC (1800 NAND)\n4x Flip-Flop (24 NAND)\n\n----\nTOTAL GATES:\n4862 GATES\n@6 gates / LUT\n811 LUTs\n\nW. 25% overprovisioning\n6078 Gates\n1014 LUTs\n\nSuggested chips:\n5V:\n\nAT40K10-2DQU\nAT40K20-2EQJ (1024 LUTs)\n\n3.3V:\nXC95288XL-10BGG256C\nXC95288XL-7FGG256I\n\n--\n\nTOTAL IO:\n183 I/O\n\n\n----\nQUESTION:\n--\nHow many of the chips are already replaced via the Z380?\n\n\nAnalogue chips:\n-----------------\n74125 (four level-shifters - 3to5V)\nADM691A (Voltage monitor)\nCXA1645 (RGB encoder)\n"
     (at 425.45 282.575 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid c884feb5-afbc-4baf-9f12-868c0ed27bc9)

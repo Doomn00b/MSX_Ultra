@@ -1,4 +1,4 @@
-20553859180588554
+20560532743314705
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58352,6 +58352,13 @@ SAMTEC_HSEC8-137-01-X-DV-A
 74
 74
 LRJ
+SAMTEC_TSM-113-02-T-DH-K-TR
+2x13 SMD Header
+SMD SMT
+0
+26
+26
+LRJ
 SCART-21_Female_Horizontal_P1.905x2.54mm_EdgePinOffset10.7mm
 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 10.7mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
 25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
@@ -58456,6 +58463,20 @@ test point wire loop
 0
 2
 2
+LRJ
+Texas_R-PDSO-G20
+20-Pin Thermally Enhanced Thin Shrink Small-Outline Package, Body 4.4x6.5x1.1mm, Pad 3.0x4.2mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/lm5118.pdf)
+PWP HTSSOP 0.65mm
+0
+20
+20
+LRJ
+Texas_R-PDSO-G48_7.7x16.0mm
+TSSOP 48 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf)
+TSSOP SSOP SO
+0
+96
+48
 LRJ
 USB-C_Receptacle_2012670005
 USB Type-C connector Receptacle, Top-mounted, SMT-terminals (see: https://www.molex.com/pdm_docs/sd/2012670005_sd.pdf)
@@ -86331,6 +86352,13 @@ TSOP-I SO
 48
 48
 Ultra-MSX
+Ultra-AV-daughter
+Ultra-MSX Audio-Video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+20
+20
+Ultra-MSX
 Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
@@ -86345,12 +86373,12 @@ Through hole pin header THT 1x04 2.54mm single row
 56
 56
 Ultra-MSX
-Ultra-video-daughter
-Ultra-MSX video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
+X2GS
+
+
 0
-20
-20
+0
+0
 Ultra-MSX
 YM_SDIP64_600
 64 pins shrink DIP package, round pads

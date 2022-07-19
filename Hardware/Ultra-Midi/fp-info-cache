@@ -1,4 +1,4 @@
-20552166071687051
+20557199099367277
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58352,6 +58352,13 @@ SAMTEC_HSEC8-137-01-X-DV-A
 74
 74
 LRJ
+SAMTEC_TSM-113-02-T-DH-K-TR
+2x13 SMD Header
+SMD SMT
+0
+26
+26
+LRJ
 SCART-21_Female_Horizontal_P1.905x2.54mm_EdgePinOffset10.7mm
 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 10.7mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
 25-pin D-Sub connector horizontal angled 90deg THT female pitch 2.77x2.54mm pin-PCB-offset 9.4mm
@@ -58505,6 +58512,13 @@ fpc epaper
 0
 48
 24
+LRJ
+microSD_HC_GCT_MEM2061
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+12
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -86328,8 +86342,8 @@ Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
-10
-7
+12
+12
 Ultra-MSX
 Ultra-VDP-daughter
 Ultra-MSX VDP daughter-card (connectors only), 5x1x04, 1mm pitch, double row
@@ -86344,6 +86358,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 20
 20
+Ultra-MSX
+X2GS
+
+
+0
+0
+0
 Ultra-MSX
 YM_SDIP64_600
 64 pins shrink DIP package, round pads

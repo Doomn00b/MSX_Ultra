@@ -1,4 +1,4 @@
-20390814204655337
+20557200681659809
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6482,6 +6482,27 @@ Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
 4
 4
 Connector_Audio
+Jack_3.5mm_CUI_SJ1-3523N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3524N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
 Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
 TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
 TRS audio jack stereo horizontal
@@ -7972,6 +7993,13 @@ connector cf
 0
 54
 50
+Connector_Card
+SD_Hirose_DM1AA_SF_PEJ82
+SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
+SD card connector
+0
+16
+13
 Connector_Card
 SD_Kyocera_145638009211859+
 SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
@@ -45815,6 +45843,13 @@ USB Type-C Receptacle Through-hole Right angle
 20
 17
 Connector_USB
+USB_C_Receptacle_GCT_USB4115-03-C
+USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf
+USB C Type-C Receptacle SMD
+0
+28
+25
+Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
 usb usb-c 2.0 pd
@@ -52065,6 +52100,62 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FP_tinyFPGA-G1
+C_0603
+Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)
+capacitor 0603
+0
+2
+2
+FP_tinyFPGA-G1
+Greenpak_TSSOP-20L_6.4x6.5mm_P0.65mm
+TSSOPL, 20 Pin, according to Silego/Dialog FPGA-packages
+TSSOP SO
+0
+20
+20
+FP_tinyFPGA-G1
+L_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
+FP_tinyFPGA-G1
+Lattice_QFN-32-1EP_5x5mm_P0.5mm_EP3.2x3.2mm
+Lattice 32-Lead, quad-flat no-leads package - used in MachXO2 FPGAs. (based on, page 18: https://www.latticesemi.com/-/media/LatticeSemi/Documents/PinPackage/PackageDiagrams.ashx?la=en)
+QFN LATTICE PACKAGE
+0
+36
+33
+FP_tinyFPGA-G1
+Pin_Header_Straight_1x05_Pitch2.54mm
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+FP_tinyFPGA-G1
+Pin_Header_Straight_1x12_Pitch2.54mm
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+FP_tinyFPGA-G1
+Pin_Header_Straight_pin1round_1x12_Pitch2.54mm
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+12
+12
+FP_tinyFPGA-G1
+R_0603
+Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0603
+0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -55363,6 +55454,20 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.
 4
 4
 Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X140
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X240
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
 L_CommonMode_Wuerth_WE-CMB-L
 Wuerth, WE-CMB, Bauform L,
 CommonModeChoke Gleichtaktdrossel 
@@ -57785,6 +57890,13 @@ DIN 41524 IEC 60130-9
 7
 6
 LRJ
+DIODES_SOT-753_SC-74A
+Based on: https://www.diodes.com/assets/Datasheets/AP7370.pdf
+sot 753 SC 74A
+0
+5
+5
+LRJ
 DIP-40_W15.24mm_lrj
 40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
 THT DIP DIL PDIP 2.54mm 15.24mm 600mil
@@ -57797,7 +57909,7 @@ DSUB-Amphenol_L77HDE15SD1CH4RHNVGA
 DB15 D-sub 15-pin 
 0
 17
-17
+16
 LRJ
 D_DO-201AA_P15.24mm_Horizontal
 Diode, DO-201AE series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
@@ -57826,6 +57938,27 @@ Fuse 0ZRE0005FF, BelFuse, Radial Leaded PTC, https://www.belfuse.com/resources/d
 0
 2
 2
+LRJ
+GCT_BC075-05_PinHeader_1x05_P1.00mm_Horizontal_SMD
+surface-mounted straight pin header, 1x5, 1.00mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 1.00mm single row style1 pin1 left
+0
+5
+5
+LRJ
+GCT_BC075-06_PinHeader_1x06_P1.00mm_Horizontal_SMD
+surface-mounted straight pin header, 1x6, 1.00mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 1.00mm single row style1 pin1 left
+0
+6
+6
+LRJ
+GCT_BC075-10_PinHeader_1x10_P1.00mm_Horizontal_SMD
+surface-mounted straight pin header, 1x10, 1.00mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x10 1.00mm single row style1 pin1 left
+0
+10
+10
 LRJ
 Greenpak_TSSOP-20L_6.4x6.5mm_P0.65mm
 TSSOPL, 20 Pin, according to Silego/Dialog FPGA-packages
@@ -57876,6 +58009,13 @@ battery SR626 coin cell
 2
 2
 LRJ
+Jack_DIN_CUI_SD-50BV_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv
+neutrik xlr b
+0
+6
+6
+LRJ
 Kycon_mini-DIN_6P
 
 
@@ -57889,6 +58029,13 @@ LED_7Seg_KYX_3361AB_LED
 0
 11
 11
+LRJ
+LQFP-128_28x28mm_P0.8mm
+LQFP, 128 Pin (https://www.nxp.com/docs/en/package-information/SOT425-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+128
+128
 LRJ
 LRJ_VFBGA-49_5.0x5.0mm_Layout7x7_P0.65mm
 VFBGA-49, 7x7, 5x5mm package, pitch 0.65mm
@@ -58016,6 +58163,13 @@ Omron Electronics Inc., 25-pin D-Sub connector, horizontal/angled (90 deg), THT-
 27
 26
 LRJ
+OST_PinHeader_2x17_P2.54mm_Vertical
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+LRJ
 OnSemi_PQFN-39
 
 
@@ -58051,12 +58205,26 @@ PQFP-304_40x40mm_P0.5mm
 304
 304
 LRJ
+PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left_sc
+surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x03 2.54mm single row style1 pin1 left
+0
+3
+3
+LRJ
 PinHeader_1x04_P2.54mm_Horizontal_less-silk
 Through hole angled pin header, 1x04, 2.54mm pitch, 6mm pin length, single row
 Through hole angled pin header THT 1x04 2.54mm single row
 0
 4
 4
+LRJ
+PinHeader_1x13_P2.54mm_Vertical_SMD_Pin1Left_lrj
+surface-mounted straight pin header, 1x13, 2.54mm pitch, single row, style 1 (pin 1 left)
+Surface mounted pin header SMD 1x13 2.54mm single row style1 pin1 left
+0
+13
+13
 LRJ
 Pin_Header_Straight_1x05_Pitch2.54mm
 Through hole straight pin header, 1x05, 2.54mm pitch, single row
@@ -58107,6 +58275,13 @@ resistor 0603
 2
 2
 LRJ
+R_0603_1608Metric_Pad0.98x0.95mm_HandSolder_small_court
+Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+LRJ
 R_0603_1608Metric_roundcourt
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -58128,6 +58303,13 @@ resistor handsolder
 2
 2
 LRJ
+R_5329_13573Metric_Pad1.9x2.7mm
+Resistor SMD 4020 (10251 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://datasheet.octopart.com/HVC0603T5004FET-Ohmite-datasheet-26699797.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+LRJ
 R_Axial_Yageo_L6.3mm_D2.4mm_P10.16mm_Horizontal
 Resistor, Axial_DIN0204 series, Axial, Horizontal, pin pitch=7.62mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
 Resistor Axial_DIN0204 series Axial Horizontal pin pitch 7.62mm 0.167W length 3.6mm diameter 1.6mm
@@ -58142,6 +58324,13 @@ R
 9
 9
 LRJ
+Relay_DPDT_AXICOM_IMSeries_GullWing
+TE Connectivity / Axicom SMD relay with Gull Wings. (Based on: https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1-1773734-7_IM_Relay_I_Type&DocType=DS&DocLang=English)
+Relay or Contactor
+0
+8
+8
+LRJ
 Rotary_Encoder_Switched_PEC11R-lrj
 
 
@@ -58149,12 +58338,26 @@ Rotary_Encoder_Switched_PEC11R-lrj
 7
 6
 LRJ
+SAMTEC_HSEC8-130-01-X-DV-A
+Samtec edge card connector
+SMD SMT Samtec edge card
+0
+60
+60
+LRJ
 SAMTEC_HSEC8-137-01-X-DV-A
 
 
 0
 74
 74
+LRJ
+SAMTEC_TSM-113-02-T-DH-K-TR
+2x13 SMD Header
+SMD SMT
+0
+26
+26
 LRJ
 SCART-21_Female_Horizontal_P1.905x2.54mm_EdgePinOffset10.7mm
 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, female, pitch 2.77x2.54mm, pin-PCB-offset 10.7mm, see http://docs-europe.electrocomponents.com/webdocs/1585/0900766b81585df2.pdf
@@ -58205,6 +58408,20 @@ SSOP 0.65
 28
 28
 LRJ
+SW_DIP_DPSTx06_Slide_CIT_KJ06RTT_W6.2mm_P2.54mm
+SMD 6x-dip-switch SPST Omron_A6S-610x, Slide, row spacing 8.9 mm (350 mils), body size  (see http://omronfs.omron.com/en_US/ecb/products/pdf/en-a6s.pdf)
+SMD DIP Switch SPST Slide 8.9mm 350mil
+0
+12
+12
+LRJ
+Samtec_HSEC8-130-01_-X-DV-A_2x30_P0.8mm_Edge
+Highspeed card edge connector for PCB's with 60 contacts (not polarized)
+conn samtec card-edge high-speed
+0
+60
+60
+LRJ
 Socket_VLB_EISA-combo
 Combined Vesa Local Bus and Extended Industry Standard Architecture, 32 bits Bus Card-Edge Socket
 BUS ISA AT Edge connector Socket VLB
@@ -58239,6 +58456,13 @@ TSSOP SO TSOP
 0
 33
 32
+LRJ
+TestPoint_Bridge_Pitch1.5mm_Pad0.8mm
+wire loop as test point, pitch 1.5mm, smd pad diameter 0.8mm, wire diameter 0.5mm
+test point wire loop
+0
+2
+2
 LRJ
 USB-C_Receptacle_2012670005
 USB Type-C connector Receptacle, Top-mounted, SMT-terminals (see: https://www.molex.com/pdm_docs/sd/2012670005_sd.pdf)
@@ -58288,6 +58512,13 @@ fpc epaper
 0
 48
 24
+LRJ
+microSD_HC_GCT_MEM2061
+Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
+Micro SD
+0
+12
+11
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -63609,6 +63840,13 @@ DFN NoLead
 9
 7
 Package_DFN_QFN
+DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
+DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+7
+Package_DFN_QFN
 DFN-6-1EP_2x1.8mm_P0.5mm_EP1.2x1.6mm
 DFN, 6 Pin (https://www.diodes.com/assets/Package-Files/U-DFN2018-6.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
@@ -63846,6 +64084,20 @@ DFN 0.5
 0
 8
 8
+Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+11
+Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+22
+11
 Package_DFN_QFN
 DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm
 DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)
@@ -72699,7 +72951,7 @@ VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
 VSON 0.65
 0
-12
+13
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
@@ -77014,6 +77266,20 @@ ESP32-S2  ESP32  WIFI
 43
 43
 RF_Module
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
+ESP32-S3-WROOM-1U
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
@@ -79337,6 +79603,174 @@ rotary encoder
 0
 5
 4
+SamacSys_Parts
+2086ST
+208-6ST-1
+Switch
+0
+12
+12
+SamacSys_Parts
+BEADC2012X120N
+NFZ2MSD101SZ10L
+Ferrite Bead
+0
+2
+2
+SamacSys_Parts
+BGA256C80P16X16_1400X1400X170
+256-Ball caBGA
+Integrated Circuit
+0
+256
+256
+SamacSys_Parts
+CAPC6050X550N
+CKG57N
+Capacitor
+0
+2
+2
+SamacSys_Parts
+CDIP762W66P254L2681H508Q20
+PDIP-20
+Integrated Circuit
+0
+20
+20
+SamacSys_Parts
+DIP762W60P254L1975H445Q16N
+FFPF10F150STU
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts
+DIP794W53P254L1930H508Q14N
+14 pdip
+Integrated Circuit
+0
+14
+14
+SamacSys_Parts
+DIP794W53P254L1930H508Q16N
+N (R-PDIP-T16)
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts
+DIP1556W56P254L5175H635Q40N
+E40.6
+Integrated Circuit
+0
+40
+40
+SamacSys_Parts
+DIPS774W33P254L1234H849Q8N
+206-4ST
+Switch
+0
+8
+8
+SamacSys_Parts
+FCE17B25PC350
+FCE17B25PC350-2
+Connector
+0
+27
+27
+SamacSys_Parts
+L77HDE15SD1CH4RHNVGA
+L77HDE15SD1CH4RHNVGA-2
+Connector
+0
+17
+17
+SamacSys_Parts
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts
+QFP50P2200X2200X160-144N
+144-PIN TQFP
+Integrated Circuit
+0
+144
+144
+SamacSys_Parts
+QFP50P3060X3060X410-208N
+AT40K10-2DQU-1
+Integrated Circuit
+0
+208
+208
+SamacSys_Parts
+RESAD1550W60L630D230
+R1
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESAD2580W69L1130D362
+RNX0381M00FKEL
+Resistor
+0
+2
+2
+SamacSys_Parts
+RESM17073X710N
+SMF52M0JT
+Resistor
+0
+2
+2
+SamacSys_Parts
+RHS7J2D103J2A2H01B
+L=5.5mm W=4.0mm T=3.3mm
+Capacitor
+0
+2
+2
+SamacSys_Parts
+RHSN12A154K2DGH01A
+RHSN12A154K2DGH01A-1
+Capacitor
+0
+2
+2
+SamacSys_Parts
+SMTGULLWINGS
+SMTGullwings
+Relay or Contactor
+0
+8
+8
+SamacSys_Parts
+SOIC127P600X175-14N
+SO14
+Integrated Circuit
+0
+14
+14
+SamacSys_Parts
+SOP50P810X120-48N
+DGG (R-PDSO-G**) PLASTIC SMALL-OUTLINE PACKAG
+Integrated Circuit
+0
+48
+48
+SamacSys_Parts
+SOT65P210X110-5N
+dck(r-pdso-g5)_1
+Integrated Circuit
+0
+5
+5
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -80755,6 +81189,48 @@ Symbol
 Symbol_Highvoltage_Type2_CopperTop_Small
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 Symbol, Highvoltage, Type 2, Copper Top, Small,
+0
+0
+0
+Symbol
+UKCA-Logo_6x6mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_8x8mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_12x12mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_20x20mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_30x30mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_40x40mm_SilkScreen
+UKCA marking
+Logo UKCA marking
 0
 0
 0
@@ -85734,7 +86210,7 @@ crystal resonator for RTC, 32768 Hz
 CRYSTAL RTC
 0
 4
-3
+4
 Ultra-MSX
 Crystal_HC-49U_Vert
 Quartz Crystal, HC-49U, Vertical
@@ -85862,12 +86338,33 @@ TSOP-I SO
 48
 48
 Ultra-MSX
-Ultra-AV-daughter
+Ultra-MIDI-daughter
+Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+12
+12
+Ultra-MSX
+Ultra-VDP-daughter
+Ultra-MSX VDP daughter-card (connectors only), 5x1x04, 1mm pitch, double row
+Through hole pin header THT 1x04 2.54mm single row
+0
+56
+56
+Ultra-MSX
+Ultra-video-daughter
 Ultra-MSX video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
 20
 20
+Ultra-MSX
+X2GS
+
+
+0
+0
+0
 Ultra-MSX
 YM_SDIP64_600
 64 pins shrink DIP package, round pads
