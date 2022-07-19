@@ -1845,7 +1845,7 @@
     (effects (font (size 1.524 1.524) (thickness 0.3048) bold italic) (justify left bottom))
     (uuid 30979a3d-28d7-46ae-b5aa-513ad60b71a4)
   )
-  (text "Tips:\n-------\n1. Specify different Resets?" (at 424.18 66.04 0)
+  (text "Tips:\n-------\n1. Specify different Resets?" (at 300.99 172.72 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 30d4a5b8-34e9-412f-9d1a-e616a8a28215)
   )
@@ -1858,7 +1858,7 @@
     (uuid 4e1a7683-466d-4d67-bce5-496395f4b0d5)
   )
   (text "Floppy drive:\nhttps://github.com/SukkoPera/OpenFlops"
-    (at 424.18 77.47 0)
+    (at 300.99 184.15 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 5632ff9d-82e3-45b5-a86b-5a4683beef51)
   )
@@ -1874,8 +1874,8 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid adadfa18-51ae-4c18-b401-20589451a485)
   )
-  (text "USB-chips\nR5F10JGCAFB#V0\nNUC123LD4AN0\n\nhttps://www.eevblog.com/forum/beginners/pro-ee_s-which-large-ic-manufacturers-make-you-cringe-no-docsno-supportetc/\n\nhttps://www.eevblog.com/forum/microcontrollers/really-thinking-to-quit-with-microchip/\n\nhttps://www.eevblog.com/forum/microcontrollers/great-dev-kit/\n\n\nATF1502ASV-15JU44\n(cpld)\n"
-    (at 425.45 115.57 0)
+  (text "USB-chips\nR5F10JGCAFB#V0\nNUC123LD4AN0\n\nATF1502ASV-15JU44\n(cpld)\n"
+    (at 299.72 203.2 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid be78c320-66c9-47db-84c6-e07682b2c3ee)
   )
@@ -5776,12 +5776,6 @@
     )
     (path "/00000000-0000-0000-0000-00005bd9dbb3/8d11e0d1-e3c1-476b-91ae-7cd3f0e43733"
       (reference "J17") (unit 1) (value "X2GS") (footprint "Ultra-MSX:X2GS")
-    )
-    (path "/00000000-0000-0000-0000-00005bd9da3d/3103b352-d224-465c-b0f2-262dbe32c2d6"
-      (reference "J18") (unit 1) (value "Amphenol_L77HDE15SD1CH4RHNVGA") (footprint "LRJ:DSUB-Amphenol_L77HDE15SD1CH4RHNVGA")
-    )
-    (path "/00000000-0000-0000-0000-00005bd9da3d/d91bc45d-7ad2-45a0-a3b4-b7d87b19eb54"
-      (reference "J19") (unit 1) (value "Console5_SCART") (footprint "LRJ:SCART-21_Female_Horizontal_P1.905x2.54mm_EdgePinOffset10.7mm")
     )
     (path "/00000000-0000-0000-0000-00005bd9d8c5/f1794f41-17f3-4d46-b361-5fbd727ffd48"
       (reference "JP3") (unit 1) (value "ROM_Jumper") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")

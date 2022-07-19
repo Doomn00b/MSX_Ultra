@@ -17136,8 +17136,8 @@
     (property "Datasheet" "" (id 3) (at 134.62 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a88b))
-    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a88b))
+    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a88c))
+    (pin "1" (uuid b1ae1ba2-5715-41d1-b0c1-6abc4d23a88c))
   )
 
   (symbol (lib_id "power:GND") (at 289.56 95.25 0) (unit 1)

@@ -568,7 +568,7 @@
       "step": "../Libraries/3D/Ultra-VDP.step",
       "vrml": "Ultra-VDP.wrl"
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/Templates/Ultra-MSX-A3.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,

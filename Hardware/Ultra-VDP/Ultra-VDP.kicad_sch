@@ -8068,7 +8068,7 @@
     (uuid b960c657-c246-4981-9351-78707854efd0)
   )
   (text "Memory-suggestions:\n-----------------------\nModern\n----\nIS42S16100H\nIS45S16100H\n\n\nLegacy\n----"
-    (at 299.72 -5.08 0)
+    (at 264.16 213.36 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid bb67cd1c-91b3-4ba9-a62d-4d4173d20f22)
   )

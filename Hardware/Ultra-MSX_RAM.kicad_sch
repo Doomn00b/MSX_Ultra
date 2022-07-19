@@ -2581,7 +2581,7 @@
   )
 
   (text "Z80380 Evaluation Board\n---------------------\n+CMOS 80380 MPU\n*18.432 MHz Oscillator\n+1 Socketed 48KB EPROM\n\n1 Socketed 128KB (128x8) SRAM\n\n2 Unsocketed 128KB (1 Mb) DRAM Slots\n\nReset Switch\nNMI Switch"
-    (at 425.45 146.05 0)
+    (at 245.11 235.585 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 0f81970b-f55e-4039-a8ff-40c0a07bab88)
   )
@@ -2590,7 +2590,7 @@
     (uuid 3e759481-bd1e-43d1-a516-704165a0cc70)
   )
   (text "Look into an address-decoder for interfacing \nsmaller address-bus memory chips with the CPU.\n\nPriority Encoder is the name of one such.\n\nNote:\nThe i80386SX uses 72-pin sims for memory-modules.\n\nAn example of an encoder/controller for a 386DX:\nhttp://www.s100computers.com/My%20System%20Pages/80386%20Board/80386%20CPU%20Board.htm\n\n\nRam-chip suggestion:\nCY62167ELL-45ZXIT (2 MB, 20 Address, 16 Data)\n\nIS42S16320D-7BLI (512 MB, 14 Address, 16 Data)\n\n"
-    (at 426.72 77.47 0)
+    (at 245.745 199.39 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 40305e0e-c9f1-49e6-9a11-38396c5aad44)
   )
@@ -2600,12 +2600,12 @@
     (uuid 57efc402-5e42-406e-9806-1fb0e28789be)
   )
   (text "Memory-slot suggestions:\nG42V12352HR\nHSEC8-137-01-L-DV-A"
-    (at 425.45 158.75 0)
+    (at 245.11 245.745 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 5cc7333d-159c-4cb3-bc53-9569d2b4097b)
   )
   (text "Talk to Jurjen Kranenborg \nabout the Z380 and system\ndesign:\n------------------\nhttps://www.kranenborg.org/"
-    (at 424.18 101.6 0)
+    (at 20.32 249.555 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 7ad4f157-8206-4a71-b933-a1f876b6f131)
   )
@@ -2623,7 +2623,7 @@
     (uuid ad898155-ef62-4a59-ac70-60baae693c90)
   )
   (text "My own memory-module:\n32 Address\n16 Data\nMHEN\nLHEN\nCS1\nCS2\nCS3\nCS4\nMEMRD\nMEMWR\n\n56 pins\n\n\nSO-DIMM-144-modules:\n64+4+8 = 76 I/O"
-    (at 426.72 30.48 0)
+    (at 245.745 152.4 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid c7ebedc7-3048-46e5-bbfe-43974917239d)
   )

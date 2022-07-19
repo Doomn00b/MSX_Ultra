@@ -11498,7 +11498,7 @@
     (uuid 0d1fb4ad-d805-437d-9f15-1ac8185e9f60)
   )
   (text "Suggestion for memory controller,\ninstead of FPGA:\nMKE14F512VLL16\n(mcu)"
-    (at -60.96 101.6 0)
+    (at 218.44 194.31 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 13d08c79-95ff-462b-acc9-e78ef70037e2)
   )
@@ -11531,7 +11531,7 @@
     (uuid 46f8862a-4813-4c15-8726-f8de5a3f3d6e)
   )
   (text "switch-examples:\n----\nKJ06RTT = 6,2 x 15,24 mm (6pos)\n219-6LPSTR = 7,62 x 16,71 mm (6pos)\nDS04-254-2-05BK-SMT = 6,2 x 16,24 mm (5 pos)"
-    (at -60.96 82.55 0)
+    (at 218.44 175.26 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 51b574c7-a906-4fb3-a819-b78e35cd453b)
   )
@@ -11552,7 +11552,7 @@
     (uuid 61d87446-64ec-4ce0-aed9-4122cc7a1bea)
   )
   (text "DO (data out)\nCHECK\nCON\nINIT/ERR\nCI (clock in)\nCO (clock out)\n\nVCC (VTref)\nGND\nN/C\n\n\nATDH40M (motherboard)\n+ \nATDH40D208 (daughterboard)\n\nAT40KEL-DK\n"
-    (at -62.23 148.59 0)
+    (at 217.17 241.3 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 6312c2b7-e1c7-4f75-9701-3f65bc07b41f)
   )
@@ -11594,7 +11594,7 @@
     (uuid a1cec749-4962-4f3a-8ba0-493c66473553)
   )
   (text "SPI-converter chips for programming CPLD:\n-----\nMCP23S08-E/SO"
-    (at -60.96 67.31 0)
+    (at 218.44 160.02 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid b0190d0f-4d0c-4e38-bbd7-918645322688)
   )
