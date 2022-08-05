@@ -1,4 +1,4 @@
-20560532743314705
+20563876940642284
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57715,6 +57715,13 @@ AM4-lrj
 1331
 1331
 LRJ
+Amphenol_75869-306LF_2x17_P2.54mm_Vertical
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+LRJ
 Amphenol_L17H1220134
 Connector stacked DB9's, Right Angle, Through Hole, F spacing. (15.88 mm)
 CONN DSUB L17H 9PIN
@@ -86239,6 +86246,13 @@ MSX mITX Mini-ITX Case Computer
 0
 0
 0
+Ultra-MSX
+DIP-64_W19.05mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+64
+64
 Ultra-MSX
 DIPS-DS03
 

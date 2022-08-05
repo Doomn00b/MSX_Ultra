@@ -1,0 +1,15 @@
+Error: Multiple footprints found for 'R21'.
+Error: Multiple footprints found for 'R14'.
+Error: Multiple footprints found for 'R22'.
+Error: Multiple footprints found for 'R7'.
+Error: Multiple footprints found for 'R23'.
+Error: Multiple footprints found for 'R15'.
+Error: Multiple footprints found for 'TP1'.
+Error: Multiple footprints found for 'R11'.
+Error: Multiple footprints found for 'TP2'.
+Error: Multiple footprints found for 'R16'.
+Error: Multiple footprints found for 'U2'.
+Error: Multiple footprints found for 'R17'.
+
+
+Info: Total warnings: 0, errors: 0.

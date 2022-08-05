@@ -4841,7 +4841,7 @@
     (path "/00000000-0000-0000-0000-00006239acec/f15a441d-616a-4999-ae10-a30a38fbf747"
       (reference "#PWR033") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006239acec/aa5eb1d7-6ae6-40df-8c9d-61fba424ab47"
+    (path "/00000000-0000-0000-0000-00005bd9d731/9b14093b-2498-47c5-a498-feddd8269057"
       (reference "#PWR034") (unit 1) (value "+5VSB") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005bd9da3d/a73ee222-2931-4eb6-b107-c14b52611ad9"
@@ -5730,7 +5730,7 @@
       (reference "J3") (unit 1) (value "Ultra-VDP-daughter") (footprint "Ultra-MSX:Ultra-VDP-daughter")
     )
     (path "/00000000-0000-0000-0000-00005bf99f40/1f403cc3-9d4c-4668-95ca-c471f84c5629"
-      (reference "J4") (unit 1) (value "OST_Conn_302-S341") (footprint "LRJ:OST_PinHeader_2x17_P2.54mm_Vertical")
+      (reference "J4") (unit 1) (value "Amphenol_75869-306LF") (footprint "LRJ:Amphenol_75869-306LF_2x17_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00005bf99f40/00000000-0000-0000-0000-000062185a47"
       (reference "J5") (unit 1) (value "Amphenol_L17H1220134") (footprint "LRJ:Amphenol_L17H1220134")
@@ -5745,7 +5745,7 @@
       (reference "J8") (unit 1) (value "SDF-130J") (footprint "LRJ:DIN1648_R_13P_Female_Circular_Horizontal_THT")
     )
     (path "/00000000-0000-0000-0000-00005bf99f40/1129a9e4-24de-494b-b708-5f67508a1894"
-      (reference "J9") (unit 1) (value "Ultra-av-daughter") (footprint "Ultra-MSX:Ultra-video-daughter")
+      (reference "J9") (unit 1) (value "Ultra-av-daughter") (footprint "Ultra-MSX:Ultra-AV-daughter")
     )
     (path "/00000000-0000-0000-0000-00005bd9d8c5/5d8e5139-8f9b-4d3e-896a-c2d7a64deb96"
       (reference "J10") (unit 1) (value "Micro_SD_Card_Det_GCT") (footprint "LRJ:microSD_HC_GCT_MEM2061")
@@ -6371,7 +6371,7 @@
     (path "/00000000-0000-0000-0000-00005bd9d731/fd61c83a-8fbd-4879-a1e0-d5f62e6f19e6"
       (reference "Y2") (unit 1) (value "Crystal_AB38T-32.768KHZ") (footprint "Ultra-MSX:Crystal_32K_Horiz")
     )
-    (path "/00000000-0000-0000-0000-00006239acec/02f5034a-51b3-44a6-9f78-dd8a210aeed6"
+    (path "/00000000-0000-0000-0000-00005bd9d731/a9b42165-a90e-46ab-8f25-6b5f3d9f4588"
       (reference "virt_sym1") (unit 1) (value "Virtual_symbol") (footprint "LRJ:TestPoint_Bridge_Pitch1.5mm_Pad0.8mm")
     )
   )

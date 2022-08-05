@@ -336,11 +336,6 @@
   (pad "54" smd rect (at 2.9 23.3) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 42c6a893-5454-41ef-81b8-a9be8b97a590))
   (pad "55" smd rect (at 4.65 24.3) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c46b0c56-9f58-4e2c-a45e-9a43e5ca6783))
   (pad "56" smd rect (at 2.9 25.3) (size 1.75 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ac2989e4-bf3a-4a2c-8378-cf18340f8671))
-  (model "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/3D/Ultra-MSX-VDP-pinstyle.step"
-    (offset (xyz 4.5 34 2.125))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
-  )
   (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.00mm.3dshapes/PinHeader_1x10_P1.00mm_Vertical_SMD_Pin1Left.step"
     (offset (xyz 6.8 27.5 0))
     (scale (xyz 1 1 1))
@@ -375,5 +370,10 @@
     (offset (xyz 3.78 15.9 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${KIPRJMOD}/Libraries/3D/Ultra-msx-VDP-socket-type.step"
+    (offset (xyz 4.15 34 2.15))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
   )
 )

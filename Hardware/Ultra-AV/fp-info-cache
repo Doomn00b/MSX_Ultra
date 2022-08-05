@@ -1,4 +1,4 @@
-20557200681659809
+20563874082444097
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57715,6 +57715,13 @@ AM4-lrj
 1331
 1331
 LRJ
+Amphenol_75869-306LF_2x17_P2.54mm_Vertical
+Through hole straight pin header, 2x17, 2.54mm pitch, double rows
+Through hole pin header THT 2x17 2.54mm double row
+0
+34
+34
+LRJ
 Amphenol_L17H1220134
 Connector stacked DB9's, Right Angle, Through Hole, F spacing. (15.88 mm)
 CONN DSUB L17H 9PIN
@@ -58463,6 +58470,20 @@ test point wire loop
 0
 2
 2
+LRJ
+Texas_R-PDSO-G20
+20-Pin Thermally Enhanced Thin Shrink Small-Outline Package, Body 4.4x6.5x1.1mm, Pad 3.0x4.2mm, Texas Instruments (see http://www.ti.com/lit/ds/symlink/lm5118.pdf)
+PWP HTSSOP 0.65mm
+0
+20
+20
+LRJ
+Texas_R-PDSO-G48_7.7x16.0mm
+TSSOP 48 Pin (http://www.ti.com/lit/ds/symlink/lmr14030.pdf#page=28, http://www.ti.com/lit/ml/msoi002j/msoi002j.pdf)
+TSSOP SSOP SO
+0
+96
+48
 LRJ
 USB-C_Receptacle_2012670005
 USB Type-C connector Receptacle, Top-mounted, SMT-terminals (see: https://www.molex.com/pdm_docs/sd/2012670005_sd.pdf)
@@ -86226,6 +86247,13 @@ MSX mITX Mini-ITX Case Computer
 0
 0
 Ultra-MSX
+DIP-64_W19.05mm_SMDSocket_SmallPads
+64-lead though-hole mounted DIP package, row spacing 16.51 mm (650 mils), SMDSocket, LongPads
+THT DIP DIL PDIP 2.54mm 16.51mm 650mil SMDSocket LongPads
+0
+64
+64
+Ultra-MSX
 DIPS-DS03
 
 dip switch
@@ -86338,6 +86366,13 @@ TSOP-I SO
 48
 48
 Ultra-MSX
+Ultra-AV-daughter
+Ultra-MSX Audio-Video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+20
+20
+Ultra-MSX
 Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
@@ -86351,13 +86386,6 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 56
 56
-Ultra-MSX
-Ultra-video-daughter
-Ultra-MSX video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-20
-20
 Ultra-MSX
 X2GS
 
