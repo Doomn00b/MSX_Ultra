@@ -1,4 +1,4 @@
-20563876940642284
+20570537395976843
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57729,6 +57729,13 @@ CONN DSUB L17H 9PIN
 22
 19
 LRJ
+Assmann_A-DF09PP_Z_Female_Vertical_P2.77x2.84mm
+9-pin D-Sub connector, straight/vertical, THT-mount, female, pitch 2.77x2.84mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
+9-pin D-Sub connector straight vertical THT female pitch 2.77x2.84mm mounting holes distance 25mm
+0
+11
+10
+LRJ
 Aviation_ZC_CLIFF_FC684202_Vertical
 BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html
 BNC female PCB mount 4 pin straight chassis connector 
@@ -58022,6 +58029,13 @@ neutrik xlr b
 0
 6
 6
+LRJ
+Jack_DIN_CUI_SD-80BV_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv
+neutrik xlr b
+0
+9
+9
 LRJ
 Kycon_mini-DIN_6P
 
@@ -86296,6 +86310,13 @@ DIP DIL DIP68 DIL68
 64
 64
 Ultra-MSX
+Keyboard-dummy
+Dummy
+dummy keyboard ULTRA-MSX
+0
+0
+0
+Ultra-MSX
 MSX-cart-dummy
 
 
@@ -86372,6 +86393,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 20
 20
+Ultra-MSX
+Ultra-IO-shield
+Ultra-MSX Audio-Video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+35
+24
 Ultra-MSX
 Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row

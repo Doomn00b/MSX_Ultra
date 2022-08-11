@@ -484,8 +484,6 @@
         "name": "Five_Volt",
         "nets": [
           "+5V",
-          "/PERIPHERALS/+5_joy",
-          "/PERIPHERALS/RY_5V",
           "/POWER/VCC_DAC",
           "/POWER/VCC_PSG",
           "VCCRGB",

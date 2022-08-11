@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.95,
-          "width": 0.9
+          "height": 0.5,
+          "width": 0.5
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -557,7 +557,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "Ultra-AV.step",
+      "step": "../Libraries/3D/Ultra-IO-shield.step",
       "vrml": "../Libraries/3D/Ultra-AV.wrl"
     },
     "page_layout_descr_file": "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/Templates/Ultra-MSX-A3.kicad_wks"
