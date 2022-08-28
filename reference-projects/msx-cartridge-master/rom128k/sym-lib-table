@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name dips-s)(type Legacy)(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX Ultra/reference-projects/msx-cartridge-master/libraries/dips-s.lib")(options "")(descr ""))
+  (lib (name "dips-s")(type "Legacy")(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX Ultra/reference-projects/msx-cartridge-master/libraries/dips-s.lib")(options "")(descr ""))
+  (lib (name "rom128k-rescue")(type "Legacy")(uri "${KIPRJMOD}/rom128k-rescue.lib")(options "")(descr ""))
 )

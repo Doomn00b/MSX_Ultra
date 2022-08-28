@@ -14189,8 +14189,8 @@
     (property "Datasheet" "" (id 3) (at 69.85 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 120fc431-5f1c-4f95-b00a-191838f78700))
-    (pin "1" (uuid 120fc431-5f1c-4f95-b00a-191838f78700))
+    (pin "1" (uuid 120fc431-5f1c-4f95-b00a-191838f78701))
+    (pin "1" (uuid 120fc431-5f1c-4f95-b00a-191838f78701))
   )
 
   (symbol (lib_id "power:GND") (at 53.34 171.45 90) (unit 1)

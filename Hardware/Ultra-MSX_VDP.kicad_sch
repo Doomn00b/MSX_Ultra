@@ -6814,7 +6814,7 @@
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 58ec8e51-2579-4690-9865-f58ac027fb07)
   )
-  (text "See 'Ultra-AV' daughter-card \nfor schematics on connector."
+  (text "See 'Ultra IO-shield' daughter-card \nfor schematics on connector."
     (at 190.5 26.67 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid 5e1d2303-dbe2-4ea9-a403-72aedad5a9c6)
@@ -6914,7 +6914,7 @@
     (effects (font (size 1.524 1.524)) (justify right bottom))
     (uuid f8bfd1ea-4bdf-4cd7-9f68-0f1573773532)
   )
-  (text "Ultra-AV daughter-card\n" (at 142.875 31.75 0)
+  (text "Ultra-IO Shield" (at 142.875 31.75 0)
     (effects (font (size 1.524 1.524)) (justify left bottom))
     (uuid ff47ac88-a288-4021-a6e4-e935cf3c1a2a)
   )
