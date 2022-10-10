@@ -1,4 +1,4 @@
-20719313762079402
+21000897179895231
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57834,6 +57834,13 @@ capacitor 0603
 2
 2
 LRJ
+C_0603_1608Metric_round_court
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+LRJ
 C_1206_3216Metric_Pad1.42x1.75mm_HandSolder
 Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 capacitor handsolder
@@ -57924,6 +57931,13 @@ Conn_TE_5530843-5
 0
 50
 50
+LRJ
+Crystal_HC49-US_Vertical
+Crystal SMD HC-49/US (after: http://cfd.citizen.co.jp/cms/cfd/pdf/english/HCM49_E.pdf)
+SMD crystal HC-49/US
+0
+2
+2
 LRJ
 DDR4_socket
 
@@ -58219,6 +58233,13 @@ mounting hole 3.7mm
 9
 1
 LRJ
+Norcomp_DSUB-15-HD_Female_Horizontal_SMD_P0.77x1.98mm
+15-pin D-Sub connector, horizontal/angled (90 deg), SMD-mount, female, pitch 0.763
+15-pin D-Sub connector horizontal angled 90deg SMD
+0
+17
+16
+LRJ
 OE_DSUB-25_Male_Horizontal_P2.77x2.84mm_EdgePinOffset8.1mm_Housed_MountingHolesOffset9.52mm
 Omron Electronics Inc., 25-pin D-Sub connector, horizontal/angled (90 deg), THT-mount, male, pitch 2.77x2.84mm, pin-PCB-offset 7.699999999999999mm, distance of mounting holes 47.04mm, distance of mounting holes to PCB edge 9.52mm, see https://omronfs.omron.com/en_US/ecb/products/pdf/en-xm3_l_xm2_l_xm4k_xm4l.pdf
 25-pin D-Sub connector horizontal angled 90deg THT male pitch 2.77x2.84mm pin-PCB-offset 8.1mm mounting-holes-distance 47.04mm mounting-hole-offset 47.04mm
@@ -58267,6 +58288,34 @@ PQFP-304_40x40mm_P0.5mm
 0
 304
 304
+LRJ
+PinHeader_1x01_P1.27mm_Horizontal_less-silk
+Through hole angled pin header, 1x01, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x01 1.27mm single row
+0
+1
+1
+LRJ
+PinHeader_1x01_P2.54mm_Horizontal_less-silk
+Through hole angled pin header, 1x01, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x01 2.54mm single row
+0
+1
+1
+LRJ
+PinHeader_1x02_P1.27mm_Horizontal_less-silk
+Through hole angled pin header, 1x02, 1.27mm pitch, 4.0mm pin length, single row
+Through hole angled pin header THT 1x02 1.27mm single row
+0
+2
+2
+LRJ
+PinHeader_1x03_P2.54mm_Horizontal_less-silk
+Through hole angled pin header, 1x03, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x03 2.54mm single row
+0
+3
+3
 LRJ
 PinHeader_1x03_P2.54mm_Vertical_SMD_Pin1Left_sc
 surface-mounted straight pin header, 1x03, 2.54mm pitch, single row, style 1 (pin 1 left)
@@ -58317,6 +58366,13 @@ Potentiometer vertical Bourns 3262P
 3
 3
 LRJ
+Potentiometer_Bourns_3361P_Horizontal
+Potentiometer, horizontal, Bourns 3314S, http://www.bourns.com/docs/Product-Datasheets/3314.pdf
+Potentiometer horizontal Bourns 3314S
+0
+3
+3
+LRJ
 PowerPAK_MLP55-31L
 
 
@@ -58347,6 +58403,13 @@ resistor handsolder
 LRJ
 R_0603_1608Metric_roundcourt
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+LRJ
+R_0805_2012Metric_roundcourt
+Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
@@ -58492,6 +58555,13 @@ BUS ISA AT Edge connector Socket VLB
 218
 218
 LRJ
+TEXAS_RI-8-1_7.5x5.85mm_P1.27mm
+SOIC, 8 Pin (http://www.ti.com/lit/ml/mpds382b/mpds382b.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+LRJ
 TFSOP-56_11.5x6.4mm_P0.4mm
 56-pin TFSOP-package.
 TSOP TFSOP SMD SMT
@@ -58559,8 +58629,8 @@ USB_C_Receptacle_GCT_USB4115-03-C
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
 usb usb-c 2.0 pd
 0
-20
-16
+30
+25
 LRJ
 WDFN-8-2EP_5x4mm_P0.5mm_EP1-2.33x2.15mm_EP2-2.33x1.76mm
 WDFN, 8 Pin (http://aosmd.com/res/data_sheets/AOZ1022DI-01.pdf)
@@ -58582,6 +58652,13 @@ AMD X570 chipset package, for I/O-connections in and out of their Ryzen processo
 0
 1331
 1331
+LRJ
+Yageo_Fuse_1812_4532Metric
+Fuse SMD 1812 (4532 Metric), square (rectangular) end terminal,
+fuse Yageo
+0
+2
+2
 LRJ
 breakaway-holes_0.5x8_p1.25
 Breakaway Hole 0.5mm, no annular ring.
@@ -86650,8 +86727,8 @@ Ultra-IO-shield
 Ultra-MSX Audio-Video daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
 Through hole pin header THT 1x04 2.54mm single row
 0
-35
-24
+55
+55
 Ultra-MSX
 Ultra-MIDI-daughter
 Ultra-MSX Midi daughter-card (connectors only), 5x1x04, 2.54mm pitch, single row
@@ -87457,3 +87534,1123 @@ varistor SIOV
 0
 2
 2
+footprints_zpark
+ADUM2251ARWZ
+Digital Isolator, I2C, 5kV, Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.5 mm L X 7.6 mm W X 2.65 mm H body
+SMD SMT
+0
+16
+16
+footprints_zpark
+ADuM1250-SOIC8
+Small Outline IC (SOIC), 1.27 mm pitch; 8 pin, 4.90 mm L X 3.90 mm W X 1.75 mm H body
+
+0
+8
+8
+footprints_zpark
+ADuM5202W-SOIC16
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+footprints_zpark
+AZEV132
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Form C http://image.schrack.com/datenblaetter/h_rt114012--_de.pdf
+Relay SPST Schrack-RT1 RM5mm 16A 250V AC Relay
+0
+6
+6
+footprints_zpark
+AZEV140
+
+
+0
+6
+6
+footprints_zpark
+Amphenole_F305-1A7H1-11040-E100_1x40-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-40S-0.5SH, 40 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+42
+41
+footprints_zpark
+C&K_BTN-KSC9
+Plastic casing for C&K's KSC9 -series of buttons, 6.35mm Diameter.
+Zpark Button
+0
+0
+0
+footprints_zpark
+C&K_SW-PVA2
+C&K's PVA2-series of switches
+Zpark Button switch
+0
+6
+6
+footprints_zpark
+CNC_Tech_3220-10-0100-00
+
+
+0
+20
+20
+footprints_zpark
+CP_EIA-2012-12_Kemet-R
+Tantalum Capacitor SMD Kemet-R (2012-12 Metric), IPC_7351 nominal, (Body size from: https://www.vishay.com/docs/40182/tmch.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+footprints_zpark
+CP_EIA-3216-18_Kemet-A
+Tantalum Capacitor SMD Kemet-A (3216-18 Metric), IPC_7351 nominal, (Body size from: https://raw.githubusercontent.com/nuclearcat/kicad-stuff/master/docs/KEM_TC101_STD.pdf), generated with kicad-footprint-generator
+capacitor tantalum
+0
+2
+2
+footprints_zpark
+CTSR_Current
+
+
+0
+6
+4
+footprints_zpark
+CTSR_Current_10
+
+
+0
+8
+6
+footprints_zpark
+C_0402_1005Metric
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0402_1005Metric_nosilk
+Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0603_1608Metric
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0603_1608Metric_nosilk
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_0805_2012Metric_nosilk
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor SMD SMT
+0
+2
+2
+footprints_zpark
+C_1206_3216Metric_nosilk
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+footprints_zpark
+C_1808_4520Metric
+Capacitor SMD 1808 (4520 Metric), square (rectangular) end terminal
+Capacitor SMD
+0
+2
+2
+footprints_zpark
+C_2211_5728Metric
+Capacitor SMD 2211 (5728 Metric), square (rectangular) end terminal
+Capacitor SMD SMT
+0
+2
+2
+footprints_zpark
+C_Axial_L4.32mm_D2.54mm_P8.0mm_Horizontal
+C, Axial series, Axial, Horizontal, pin pitch=8.0mm, , length*diameter=4.32*2.54mm^2, http://www.vishay.com/docs/45231/arseries.pdf
+C Axial Horizontal pin pitch 8.0mm Zpark
+0
+2
+2
+footprints_zpark
+C_Rect_L10.16mm_W6.0mm_P2.54mm_199D
+C, Rect series, Radial, pin pitch=2.54mm, , length*width=16.5*6mm^2, Capacitor, https://www.vishay.com/docs/40020/199d.pdf
+C Rect series Radial pin pitch 2.54mm length 10.16mm width 6mm Capacitor
+0
+2
+2
+footprints_zpark
+DO-214AC
+
+
+0
+2
+2
+footprints_zpark
+ECE05US12
+
+
+0
+5
+5
+footprints_zpark
+ECE10US12
+
+
+0
+4
+4
+footprints_zpark
+ECS_Crystal_ECX-32_SMD-4Pin_3.2x2.5mm
+ECS Inc. International, Crystal SMD 3225 Metric, 4 pins
+Crystal ECS
+0
+4
+4
+footprints_zpark
+Graphic_Black-bar_11.2x5.5mm
+A black box on the Silk-screen layer.
+Graphic Zpark
+0
+0
+0
+footprints_zpark
+Graphic_Caution_HV_16.6x4.8mm_SilkScreen
+High Voltage Caution warning -graphic, in 16.6x4.8 mm dimension.
+Graphic Zpark EV Logo
+0
+0
+0
+footprints_zpark
+Graphic_Caution_HV_27.7x8mm
+High Voltage Caution warning -graphic, for the PCB-silkscreen.
+Graphic Zpark EV
+0
+0
+0
+footprints_zpark
+Graphic_Charger_1_30.6x25.8mm
+EV-1 and MV-1 markings with neutral and phase.
+Zpark EV graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_1_BOLD_30.6x25.8mm
+EV-1 and MV-1 graphic with bold text.
+Graphic Zpark EV
+0
+0
+0
+footprints_zpark
+Graphic_Charger_2_30.6x25.8mm
+EV-2 and MV-2 graphic with Phase and Neutral markings.
+EV Zpark Graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_2_BOLD_30.6x28.5mm
+EV2 and MV2 graphic with bold text.
+EV Zpark Graphic
+0
+0
+0
+footprints_zpark
+Graphic_Charger_Input_BOLD_5.75x23.5mm_SilkScreen
+L1, L2 and Neutral markings on the silkscreen-layer.
+Graphic Zpark
+0
+0
+0
+footprints_zpark
+Graphic_WEEE_4.2x6mm_SilkScreen
+Waste Electrical and Electronic Equipment Directive
+Logo WEEE Graphic
+0
+0
+0
+footprints_zpark
+Harwin-M22
+
+
+0
+16
+16
+footprints_zpark
+Harwin_S1941-42R
+
+
+0
+1
+1
+footprints_zpark
+IEC62196_Type2_MountingHole_1.8mm_Pad_x5
+Mounting Hole 2.2mm, M2, ISO7380, x5
+mounting hole 2.2mm m2 iso7380
+0
+5
+5
+footprints_zpark
+LED_D3.0mm
+LED, diameter 3.0mm, 2 pins
+LED diameter 3.0mm 2 pins
+0
+2
+2
+footprints_zpark
+LED_EAST1410RGBW02
+
+
+0
+6
+6
+footprints_zpark
+LED_NTE_D5.0mm_P1.25-4_RGB
+LED, RGB, diameter 5.0mm, 4 pins, based on: https://www.nteinc.com/specs/30100to30199/pdf/nte30153_56.pdf
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_QBE_D5.0mm_P1.27-4_RGB
+LED, RGB, diameter 5.0mm, 4 pins, based on: https://www.nteinc.com/specs/30100to30199/pdf/nte30153_56.pdf
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_QBE_D5.0mm_P1.27-4_RGB_RA
+LED, RGB, diameter 5.0mm, 4 pins, right angle
+LED diameter 5.0mm 4 pins RGB RGBLED Zpark
+0
+4
+4
+footprints_zpark
+LED_SunLED_XZFB
+
+
+0
+6
+6
+footprints_zpark
+LMZ21700_uSIP8
+
+
+0
+12
+8
+footprints_zpark
+LOGO_CHARGEIT_74.5x11.15mm
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT2_7x9mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT2_11x14mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_GREPIT_TEXT
+
+
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_13.12x13.12mm
+The Zpark project logo, in the size of 13.12 x 13.12 mm.
+Graphic Logo Zpark
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_14.76x14.76mm
+The Zpark project logo, in the size of 14.76 x 14.76 mm.
+
+0
+0
+0
+footprints_zpark
+LOGO_ZPARK_17.71x17.71mm
+The Zpark project logo, in the size of 17.71 x 17.71 mm.
+Graphic Logo Zpark
+0
+0
+0
+footprints_zpark
+LOGO_grepit_7x9mm
+
+
+0
+0
+0
+footprints_zpark
+LOGO_grepit_11x14mm
+
+
+0
+0
+0
+footprints_zpark
+LT1054-SOIC16
+Small Outline IC (SOIC), 1.27 mm pitch; 16 pin, 10.30 mm L X 7.50 mm W X 2.65 mm H body
+
+0
+16
+16
+footprints_zpark
+LTMxxxxxx-BGA32_15x11.25mm
+LTMXXXXXX, BGA-32, µModule, 15 mm L X 11.25 mm W X 3.42 mm H body, Ball Designation per JESD MS-028 and JEP95
+BGA MS-028
+0
+32
+32
+footprints_zpark
+L_0402_1005Metric
+Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+footprints_zpark
+L_0805_2012Metric
+Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 80, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+inductor
+0
+2
+2
+footprints_zpark
+L_Axial_L4.45mm_D3.51mm_P8.89mm_Horizontal_Laird
+Ferrite Bead, Axial, Horizontal, pin pitch=P8.89mm, length*diameter=4.45*3.51mm^2, Laird (see: https://www.laird.com/sites/default/files/2019-07/28L0138-10R-10.pdf)
+Inductor Ferrite Bead Laird Zpark
+0
+2
+2
+footprints_zpark
+MC-254-10-00-ST-DIP_2x05_P2.54mm_Vertical
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+10
+10
+footprints_zpark
+MH-3.2_6mm
+
+
+0
+1
+1
+footprints_zpark
+MPM-04D
+
+
+0
+7
+7
+footprints_zpark
+Molex_1x2_P3.5
+
+
+0
+2
+2
+footprints_zpark
+Molex_019705-4301
+
+
+0
+2
+1
+footprints_zpark
+Molex_53517-0230
+
+
+0
+2
+2
+footprints_zpark
+Molex_505568-0671
+
+
+0
+8
+7
+footprints_zpark
+Mount_SMD_LED22
+
+
+0
+0
+0
+footprints_zpark
+Mount_THR_LED5_22
+
+
+0
+0
+0
+footprints_zpark
+MountingHole_0.5mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_0.6mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_1.2mm
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
+0
+0
+0
+footprints_zpark
+MountingHole_1.7mm_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_1.8mm_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_3.2mm_M3_Slot_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_4.3mm_M4_ISO7380_Pad
+Mounting Hole 4.3mm, M4, ISO7380
+mounting hole 4.3mm m4 iso7380
+0
+1
+1
+footprints_zpark
+MountingHole_x3_3.5mm
+Mounting Hole 3.5mm, no annular
+mounting hole 3.5mm no annular
+0
+0
+0
+footprints_zpark
+OGSC-402030
+
+
+0
+1
+1
+footprints_zpark
+OGSC-756030
+
+
+0
+1
+1
+footprints_zpark
+Omron_32A
+
+
+0
+4
+4
+footprints_zpark
+PAD_1.5mm
+
+
+0
+1
+1
+footprints_zpark
+PE-53914NL
+
+
+0
+4
+4
+footprints_zpark
+PPTC_1210
+
+
+0
+2
+2
+footprints_zpark
+Panjit_D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+footprints_zpark
+Phoenix MKDS 5-3-7-62
+
+
+0
+3
+3
+footprints_zpark
+Phoenix MKDS 5-4-7-62
+
+
+0
+4
+4
+footprints_zpark
+Phoenix MKDS 5-5-6-35
+
+
+0
+6
+6
+footprints_zpark
+Phoenix MKDS 5-6-6-35
+
+
+0
+6
+6
+footprints_zpark
+Phoenix MKDS5-2-6-35
+
+
+0
+2
+2
+footprints_zpark
+Phoenix MKDS5-5-6-355
+
+
+0
+5
+5
+footprints_zpark
+Phoenix-FP-127-26-FH
+SMD female connector, Reflow soldering
+connector Phoenix side entry
+0
+30
+27
+footprints_zpark
+Phoenix-holes_x2
+Holes made to be similar to certain Phoenix connectors.
+
+0
+2
+2
+footprints_zpark
+Phoenix-holes_x5
+Holes made to be similar to certain Phoenix connectors.
+
+0
+5
+5
+footprints_zpark
+PhoenixContact_MCV_1,5_3-G-5.08_1x03_P5.08mm_Vertical
+
+
+0
+3
+3
+footprints_zpark
+PhoenixContact_SMC_1,5_10-G-3.81_1x10_P3.81mm
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-3.81; number of pins: 10; pin pitch: 3.81mm; Angled || order number: 1803358 8A 160V
+phoenix_contact connector MC_01x10_G_3.81mm
+0
+10
+10
+footprints_zpark
+Phoenix_2x7_1844921
+
+
+0
+14
+14
+footprints_zpark
+Phoenix_2x8_1844934
+
+
+0
+16
+16
+footprints_zpark
+Phoenix_2x8_1845085
+
+
+0
+16
+16
+footprints_zpark
+Phoenix_2x10_1844808
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_2x10_1844808 (2)
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_2x10_1844950
+
+
+0
+20
+20
+footprints_zpark
+Phoenix_1713985
+
+
+0
+5
+5
+footprints_zpark
+Phoenix_FP_1,27_2x13_Angle_SMD
+
+
+0
+30
+27
+footprints_zpark
+Phoenix_MKDS5-2-6-35
+
+
+0
+2
+2
+footprints_zpark
+Phoenix_MKDS5-3+2-6-35
+
+
+0
+5
+5
+footprints_zpark
+Phoenix_MKDS5-3-6-35
+
+
+0
+3
+3
+footprints_zpark
+Phoenix_MKKDS_5_2_6_35
+
+
+0
+4
+4
+footprints_zpark
+PinHeader_1x05_P2.00mm_Vertical
+Through hole straight pin header, 1x05, 2.00mm pitch, single row
+Through hole pin header THT 1x05 2.00mm single row
+0
+6
+6
+footprints_zpark
+PinHeader_2x05_P1.27mm_Vertical
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+footprints_zpark
+PinHeader_2x10_P2.00mm_Angle_SMD
+surface-mounted straight pin header, 2x10, 2.00mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.00mm double row
+0
+20
+20
+footprints_zpark
+PinHeader_2x10_P2.54mm_Vertical-key
+Through hole straight pin header, 2x10, 2.54mm pitch, double rows
+Through hole pin header THT 2x10 2.54mm double row
+0
+20
+20
+footprints_zpark
+PinHeader_2x12_P2.00mm_Angle_SMD
+surface-mounted straight pin header, 2x10, 2.00mm pitch, double rows
+Surface mounted pin header SMD 2x10 2.00mm double row
+0
+24
+24
+footprints_zpark
+R_0402_1005Metric_nosilk
+Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+footprints_zpark
+SAMTEC-SFM-110-02-X-D
+translated Allegro footprint
+
+0
+20
+20
+footprints_zpark
+SAMTEC-TFM-110-01-X-D
+
+
+0
+20
+20
+footprints_zpark
+SAMTEC_TFM-105-02-L-DH-TR
+
+
+0
+14
+14
+footprints_zpark
+SMD Mounting Wurth
+
+
+0
+1
+0
+footprints_zpark
+SMT_Spacer_4mm
+
+
+0
+2
+1
+footprints_zpark
+SOIC-8_4.9x6.0mm_P1.27mm_nosilk
+SOIC, 8 Pin (based on: http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en520352)
+SOIC SO Zpark
+0
+8
+8
+footprints_zpark
+SOIC-16W_7.5x10.3mm_P1.27mm
+SOIC, 16 Pin (JEDEC MS-013AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_wide-rw/rw_16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+16
+16
+footprints_zpark
+SOT-223-6
+module CMS SOT223 6 pins, http://www.ti.com/lit/ds/symlink/tps737.pdf
+CMS SOT
+0
+6
+6
+footprints_zpark
+SSOP-28_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+28
+28
+footprints_zpark
+SSOP-28_modified_5.3x10.2mm_P0.65mm
+28-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+footprints_zpark
+STM32_NUCLEO
+
+
+0
+16
+16
+footprints_zpark
+SW_KSC9J
+
+
+0
+4
+4
+footprints_zpark
+Samtec_FTSH-105-01-L-D-K
+Through hole straight pin header, 2x05, 1.27mm pitch, double rows
+Through hole pin header THT 2x05 1.27mm double row
+0
+10
+10
+footprints_zpark
+Samtec_SHF-105-01-X-D-SM
+
+Zpark Connector SMD SMT
+0
+10
+10
+footprints_zpark
+Segger_6-pin_Needle
+
+
+0
+6
+6
+footprints_zpark
+Segger_6-pin_Needle_wLeg
+
+
+0
+6
+6
+footprints_zpark
+Segger_10-pin_Needle
+
+
+0
+10
+10
+footprints_zpark
+Segger_10-pin_Needle_wLeg
+
+
+0
+10
+10
+footprints_zpark
+T60404-N4641-X920
+
+
+0
+16
+16
+footprints_zpark
+TCA9511A
+VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf
+VSSOP-8 3.0 x 3.0
+0
+8
+8
+footprints_zpark
+TE_796634-4
+
+
+0
+4
+4
+footprints_zpark
+TE_ADF04S04
+
+
+0
+8
+8
+footprints_zpark
+TE_ADF06ST04
+
+
+0
+15
+12
+footprints_zpark
+TFML-110-01-S-D-LC_2x10_P1.27mm_Vertical
+Through hole straight pin header, 2x10, 1.27mm pitch, double rows
+Through hole pin header THT 2x10 1.27mm double row Connector
+0
+20
+20
+footprints_zpark
+TFML-110-01-S-D-LC_2x10_P1.27mm_Vertical-v2
+Through hole straight pin header, 2x10, 1.27mm pitch, double rows
+Through hole pin header THT 2x10 1.27mm double row Connector
+0
+20
+20
+footprints_zpark
+TL3305
+
+
+0
+4
+4
+footprints_zpark
+TLS105B0
+8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+WSON 8 1EP
+0
+5
+5
+footprints_zpark
+TQFP-100_14x14mm_P0.5mm
+TQFP, 100 Pin (http://www.microsemi.com/index.php?option=com_docman&task=doc_download&gid=131095), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TQFP QFP
+0
+100
+100
+footprints_zpark
+TSSOP-10_3x3mm_P0.5mm
+TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
+SSOP 0.5
+0
+10
+10
+footprints_zpark
+TVS1801
+8-Lead Plastic WSON, 2x2mm Body, 0.5mm Pitch, WSON-8, http://www.ti.com/lit/ds/symlink/lm27761.pdf
+WSON 8 1EP
+0
+13
+2
+footprints_zpark
+TerminalBlock_Phoenix_1017517_P6.35mm_Horizontal
+
+
+0
+5
+3
+footprints_zpark
+Triangle
+
+
+0
+0
+0
+footprints_zpark
+Triangle200
+
+
+0
+0
+0
+footprints_zpark
+Triangle400
+
+
+0
+0
+0
+footprints_zpark
+TriangleNEW
+
+
+0
+0
+0
+footprints_zpark
+USB2_A_Molex_0480372200
+USB 3.0, type A, right angle (http://www.molex.com/pdm_docs/sd/483930003_sd.pdf)
+USB 3.0 type A right angle
+0
+6
+5
+footprints_zpark
+WE_629105150521
+
+
+0
+9
+9
+footprints_zpark
+WeidMuller_LU_10,16_4,5SN_1x5_P10.16mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-5.08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1836260 8A 320V
+phoenix_contact connector MC_01x10_G_5.08mm
+0
+10
+5
+footprints_zpark
+WeidMuller_LU_10,16_4,5SN_1x6_P10.16mm_Horizontal
+Generic Phoenix Contact connector footprint for: MC_1,5/10-G-5.08; number of pins: 10; pin pitch: 5.08mm; Angled || order number: 1836260 8A 320V
+phoenix_contact connector MC_01x10_G_5.08mm
+0
+12
+6
+footprints_zpark
+Weidmuller_122624xx_Screw_Terminal_1x11
+
+
+0
+22
+11
+footprints_zpark
+Wuerth_M4_Standoff
+
+
+0
+2
+1
+footprints_zpark
+Wurth
+
+
+0
+9
+1
+footprints_zpark
+Wurth - 74650174
+
+
+0
+4
+1
+footprints_zpark
+Wurth - 74650195R
+
+
+0
+9
+1
+footprints_zpark
+Wurth_Standoff_6mm
+
+
+0
+2
+1
+footprints_zpark
+gateway-mount-dummy
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
+footprints_zpark
+gateway_v2-dummy
+
+CHARGEIT ZPARK EV Graphic
+0
+0
+0
