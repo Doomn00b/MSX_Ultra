@@ -1,0 +1,19 @@
+### Missing 3D models - created on 2022-10-30 22:44
+### Printed by checking_3D_models plugin
+Board file: E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Ultra-MSX.kicad_pcb
+3D missing models written to:
+E:\Documents\Teknikprojekt\Hardware\MSX\MSX_Ultra\Hardware\Ultra-MSX_missing3Dmodels.txt
+-------
+('Cart1', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-bot.wrl')
+('Cart1', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-top.wrl')
+('Cart2', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-bot.wrl')
+('Cart2', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-top.wrl')
+('Cart3', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-bot.wrl')
+('Cart3', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\MSX_cart-shell-top.wrl')
+('U4', 'E:\\Documents\\Teknikprojekt\\Hardware\\MSX\\MSX_Ultra\\Hardware\\Libraries\\3D\\DIL-64.wrz')
+('J5', 'E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/3D/Ultra-IO.wrl')
+('JP1', 'C:\\Program Files\\KiCad\\share\\kicad\\modules\\packages3d\\Connector_PinHeader_2.54mm.3dshapes\\PinHeader_1x02_P2.54mm_Vertical.step')
+('U9', 'C:\\Program Files\\KiCad\\share\\kicad\\modules\\packages3d\\Package_SO.3dshapes\\SOP-16_4.4x10.4mm_P1.27mm.wrl')
+-------
+NUM of 3D missing models:10
+checked extensions ['.stp', '.step', '.stpZ']

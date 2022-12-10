@@ -1,5 +1,6 @@
 (sym_lib_table
-  (lib (name msx-con)(type Legacy)(uri ${KIPRJMOD}/msx-con.lib)(options "")(descr ""))
-  (lib (name "EPM7064_(44-PLCC)")(type Legacy)(uri "${KIPRJMOD}/EPM7064 (44-PLCC).lib")(options "")(descr ""))
-  (lib (name MSX_USB)(type Legacy)(uri ${KIPRJMOD}/MSX_USB.lib)(options "")(descr ""))
+  (lib (name "msx-con")(type "KiCad")(uri "${KIPRJMOD}/msx-con.kicad_sym")(options "")(descr ""))
+  (lib (name "EPM7064_(44-PLCC)")(type "KiCad")(uri "${KIPRJMOD}/EPM7064 (44-PLCC).kicad_sym")(options "")(descr ""))
+  (lib (name "MSX_USB")(type "KiCad")(uri "${KIPRJMOD}/MSX_USB.kicad_sym")(options "")(descr ""))
+  (lib (name "MSX-USB-Drive-rescue")(type "KiCad")(uri "${KIPRJMOD}/MSX USB Drive-rescue.kicad_sym")(options "")(descr ""))
 )

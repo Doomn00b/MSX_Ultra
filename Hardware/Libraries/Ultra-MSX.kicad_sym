@@ -9275,25 +9275,37 @@
     )
   )
   (symbol "Conn_SO-DIMM-144" (in_bom yes) (on_board yes)
-    (property "Reference" "J" (id 0) (at -30.48 81.915 0)
+    (property "Reference" "J" (id 0) (at -15.24 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Value" "Conn_SO-DIMM-144" (id 1) (at -25.4 81.915 0)
+    (property "Value" "Conn_SO-DIMM-144" (id 1) (at 0 -88.9 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "LRJ:SODIMM-144_socket" (id 2) (at 0 -101.6 0)
+    (property "Footprint" "LRJ:SODIMM-144_socket" (id 2) (at 12.7 -91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://pinouts.ru/Memory/SimmSo144_pinout.shtml" (id 3) (at 0 -96.52 0)
+    (property "Datasheet" "https://pinoutguide.com/Memory/SimmSo144_pinout.shtml" (id 3) (at 63.5 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_keywords" "DRAM SDRAM CMOS MEMORY" (id 4) (at 0 0 0)
+    (property "MPN" "n/a" (id 4) (at 38.1 12.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "Socket for 144-pin SO-DIMM memory modules." (id 5) (at 0 0 0)
+    (property "Manufacturer" "n/a" (id 5) (at 38.1 10.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "TSOP?I*11.8x8mm*P0.5mm* TSOP?I*18.4x8mm*P0.5mm*" (id 6) (at 0 0 0)
+    (property "Voltage Rating" "3.3V" (id 6) (at 38.1 7.62 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Frequency" "133MHz" (id 7) (at 38.1 5.08 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_keywords" "DRAM SDRAM MEMORY" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "Socket for 144-pin SO-DIMM memory modules." (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_fp_filters" "TSOP?I*11.8x8mm*P0.5mm* TSOP?I*18.4x8mm*P0.5mm*" (id 10) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Conn_SO-DIMM-144_0_1"
@@ -9342,6 +9354,22 @@
       )
       (polyline
         (pts
+          (xy -14.605 -34.29)
+          (xy -13.335 -34.29)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -14.605 -11.43)
+          (xy -13.335 -11.43)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy -14.605 0)
           (xy -13.335 0)
         )
@@ -9360,6 +9388,22 @@
         (pts
           (xy -12.7 -38.1)
           (xy -11.43 -38.1)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -12.7 -34.29)
+          (xy -11.43 -34.29)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -12.7 -11.43)
+          (xy -11.43 -11.43)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -9398,6 +9442,22 @@
       )
       (polyline
         (pts
+          (xy -10.795 -34.29)
+          (xy -9.525 -34.29)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -10.795 -11.43)
+          (xy -9.525 -11.43)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy -10.795 -8.89)
           (xy -9.525 -8.89)
         )
@@ -9424,6 +9484,22 @@
         (pts
           (xy -8.89 -38.1)
           (xy -7.62 -38.1)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -8.89 -34.29)
+          (xy -7.62 -34.29)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -8.89 -11.43)
+          (xy -7.62 -11.43)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -9515,6 +9591,25 @@
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.715 -34.29)
+          (xy -6.985 -34.29)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -5.715 -11.43)
+          (xy -6.985 -11.43)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (text "Data-masking" (at -14.605 -12.7 0)
+        (effects (font (size 0.7874 0.7874)) (justify left))
       )
       (text "ECC modules" (at -14.605 -40.64 0)
         (effects (font (size 0.7874 0.7874)) (justify left))

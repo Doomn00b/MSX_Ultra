@@ -484,6 +484,7 @@
         "name": "Five_Volt",
         "nets": [
           "+5V",
+          "+5VP",
           "/POWER/VCC_DAC",
           "/POWER/VCC_PSG",
           "VCCRGB",
@@ -575,7 +576,7 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(131, 31, 210)",
-        "track_width": 0.2,
+        "track_width": 0.4,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 7.874015748031496
@@ -591,7 +592,6 @@
         "microvia_drill": 0.1,
         "name": "Three_Volt",
         "nets": [
-          "+3V3",
           "/AUDIO/0.5_VDD"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",

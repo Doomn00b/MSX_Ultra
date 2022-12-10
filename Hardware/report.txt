@@ -1,79 +1,399 @@
-Warning: No net found for symbol RV2 pin 18.
-Warning: No net found for symbol RV2 pin 19.
-Warning: No net found for symbol RV2 pin 20.
-Warning: No net found for symbol RV2 pin 1.
-Warning: No net found for symbol RV2 pin 2.
-Warning: No net found for symbol RV2 pin 9.
-Warning: No net found for symbol RV2 pin 13.
-Warning: No net found for symbol RV8 pin 1.
-Warning: No net found for symbol RV8 pin 3.
-Warning: No net found for symbol RV8 pin 4.
-Warning: No net found for symbol RV8 pin 5.
-Warning: No net found for symbol RV8 pin 6.
-Warning: No net found for symbol RV8 pin 7.
-Warning: No net found for symbol RV8 pin 8.
-Warning: No net found for symbol RV8 pin 10.
-Warning: No net found for symbol U14 pin 49.
-Warning: No net found for symbol U14 pin 50.
-Warning: No net found for symbol U14 pin 51.
-Warning: No net found for symbol U14 pin 52.
-Warning: No net found for symbol U14 pin 53.
-Warning: No net found for symbol U14 pin 54.
-Warning: No net found for symbol U14 pin 55.
-Warning: No net found for symbol U14 pin 56.
-Warning: No net found for symbol RV8 pin 11.
-Warning: No net found for symbol U15 pin 21.
-Warning: No net found for symbol U15 pin 22.
-Warning: No net found for symbol U15 pin 23.
-Warning: No net found for symbol U15 pin 24.
-Warning: No net found for symbol U15 pin 25.
-Warning: No net found for symbol U15 pin 26.
-Warning: No net found for symbol U15 pin 27.
-Warning: No net found for symbol U15 pin 28.
-Warning: No net found for symbol U15 pin 29.
-Warning: No net found for symbol U15 pin 30.
-Warning: No net found for symbol U15 pin 31.
-Warning: No net found for symbol U15 pin 32.
-Warning: No net found for symbol U15 pin 33.
-Warning: No net found for symbol U15 pin 34.
-Warning: No net found for symbol U15 pin 35.
-Warning: No net found for symbol U15 pin 36.
-Warning: No net found for symbol U15 pin 37.
-Warning: No net found for symbol U15 pin 38.
-Warning: No net found for symbol U15 pin 39.
-Warning: No net found for symbol U15 pin 40.
-Warning: No net found for symbol U15 pin 41.
-Warning: No net found for symbol U15 pin 42.
-Warning: No net found for symbol U15 pin 43.
-Warning: No net found for symbol U15 pin 44.
-Warning: No net found for symbol U15 pin 45.
-Warning: No net found for symbol U15 pin 46.
-Warning: No net found for symbol U15 pin 47.
-Warning: No net found for symbol U15 pin 48.
-Warning: No net found for symbol U15 pin 49.
-Warning: No net found for symbol U15 pin 50.
-Warning: No net found for symbol U15 pin 51.
-Warning: No net found for symbol U15 pin 52.
-Warning: No net found for symbol U15 pin 53.
-Warning: No net found for symbol U15 pin 54.
-Warning: No net found for symbol U15 pin 55.
-Warning: No net found for symbol U15 pin 56.
-Warning: No net found for symbol RV8 pin 12.
-Warning: No net found for symbol RV8 pin 13.
-Warning: No net found for symbol RV8 pin 14.
-Warning: No net found for symbol RV8 pin 15.
-Warning: No net found for symbol RV8 pin 18.
-Warning: No net found for symbol RV8 pin 19.
+Info: Processing symbol 'BT1:LRJ:Battery_SR626'.
+Info: Processing symbol 'BT2:LRJ:Battery_SR626'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C17:Ultra-MSX:Cap_Elec_Radial_10mm'.
+Info: Processing symbol 'C18:Ultra-MSX:Cap_Elec_Radial_10mm'.
+Info: Processing symbol 'C19:Ultra-MSX:Cap_Elec_Radial_10mm'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C22:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C23:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C24:Capacitor_SMD:C_Trimmer_Sprague-Goodman_SGC3'.
+Info: Processing symbol 'C25:Capacitor_SMD:C_Trimmer_Sprague-Goodman_SGC3'.
+Info: Processing symbol 'C26:Capacitor_SMD:C_Trimmer_Sprague-Goodman_SGC3'.
+Info: Processing symbol 'C27:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C28:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C30:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C32:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C33:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C34:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C35:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C36:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C37:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C38:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C39:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C43:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C44:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C45:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C46:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C47:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C48:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C49:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C50:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C51:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C52:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C53:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C54:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C55:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C56:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C57:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C58:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C59:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C60:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C61:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C62:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C63:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C64:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C65:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C66:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C67:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'R127:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C68:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C69:Capacitor_SMD:C_1210_3225Metric'.
+Info: Processing symbol 'C70:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C71:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'R128:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'C72:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C73:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C74:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C75:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C76:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C77:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C78:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C79:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C80:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C81:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C82:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C83:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C85:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C86:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C87:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C88:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C89:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C90:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C91:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C92:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C93:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C94:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C95:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C97:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C98:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C99:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C101:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C102:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C103:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C104:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C105:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C106:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C107:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'C108:Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder'.
+Info: Processing symbol 'Cart1:Ultra-MSX:MSX-cart-dummy'.
+Info: Processing symbol 'Cart2:Ultra-MSX:MSX-cart-dummy'.
+Info: Processing symbol 'Cart3:Ultra-MSX:MSX-cart-dummy'.
+Info: Processing symbol 'Case1:Ultra-MSX:DAN-Case-dummy'.
+Info: Processing symbol 'R129:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'H1:LRJ:MountingHole_3.96mm_Pad_Via'.
+Info: Processing symbol 'H2:LRJ:MountingHole_3.96mm_Pad_Via'.
+Info: Processing symbol 'H3:LRJ:MountingHole_3.96mm_Pad_Via'.
+Info: Processing symbol 'H4:LRJ:MountingHole_3.96mm_Pad_Via'.
+Info: Processing symbol 'HS1:LRJ:Heatsink_35x35mm_SpringFixation'.
+Info: Processing symbol 'J1:LRJ:CUI_RCJ-022'.
+Info: Processing symbol 'J2:LRJ:CUI_RCJ-023'.
+Info: Processing symbol 'J3:Ultra-MSX:Ultra-VDP-daughter'.
+Info: Processing symbol 'J4:LRJ:Amphenol_75869-306LF_2x17_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Ultra-MSX:Ultra-IO-shield'.
+Info: Processing symbol 'R130:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R131:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R132:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R133:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R134:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R135:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'RV1:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'RV2:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'RV3:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'RV4:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'SLOT1:Ultra-MSX:MSX_TE_5530841-5'.
+Info: Processing symbol 'SLOT2:Ultra-MSX:MSX_TE_5530841-5'.
+Info: Processing symbol 'SLOT3:Ultra-MSX:MSX_TE_5530841-5'.
+Info: Processing symbol 'SW1:LRJ:SW_DIP_DPSTx06_Slide_CIT_KJ06RTT_W6.2mm_P2.54mm'.
+Info: Processing symbol 'U1:Package_QFP:PQFP-100_14x20mm_P0.65mm'.
+Info: Processing symbol 'U2:Package_QFP:PQFP-208_28x28mm_P0.5mm'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U4:Ultra-MSX:YM_SDIP64_600'.
+Info: Processing symbol 'U5:Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm'.
+Info: Processing symbol 'U6:Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm'.
+Info: Processing symbol 'U7:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U8:Ultra-MSX:sTSOP-32_13.4x8mm_P0.5mm'.
+Info: Processing symbol 'U9:Ultra-MSX:SO-16_5.3x10.0mm_P1.27mm'.
+Info: Processing symbol 'U10:LRJ:TSOP-32_8x14mm_P0.5mm'.
+Info: Processing symbol 'U11:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U12:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U13:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U14:LRJ:Texas_R-PDSO-G48_7.7x16.0mm'.
+Info: Processing symbol 'U15:Package_SO:Texas_PWP0020A'.
+Info: Processing symbol 'U18:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U19:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'R23:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'U20:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U21:Package_TO_SOT_SMD:SOT-23-5'.
+Info: Processing symbol 'U23:Package_SO:TSOP-I-56_18.4x14mm_P0.5mm'.
+Info: Processing symbol 'U24:Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm'.
+Info: Processing symbol 'U25:Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm'.
+Info: Processing symbol 'U26:Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm'.
+Info: Processing symbol 'U27:Package_DFN_QFN:WQFN-20-1EP_2.5x4.5mm_P0.5mm_EP1x2.9mm'.
+Info: Processing symbol 'J6:LRJ:DIN1648_R_13P_Female_Circular_Horizontal_THT'.
+Info: Processing symbol 'J10:LRJ:microSD_HC_GCT_MEM2061'.
+Info: Processing symbol 'J10-0:LRJ:Molex_Mini-Fit_Jr_5566-24A2_2x12_P4.20mm_Vertical'.
+Info: Processing symbol 'J10-1:LRJ:Conn_Kycon_KLDX-0202-A'.
+Info: Processing symbol 'J11:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD'.
+Info: Processing symbol 'J12:Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical_SMD'.
+Info: Processing symbol 'J13:LRJ:SAMTEC_HSEC8-137-01-X-DV-A'.
+Info: Processing symbol 'J15:LRJ:Holder_SR626'.
+Info: Processing symbol 'J16:Connector_PinHeader_2.54mm:PinHeader_2x13_P2.54mm_Vertical_SMD'.
+Info: Processing symbol 'J17:Ultra-MSX:X2GS'.
+Info: Processing symbol 'JP1:Ultra-MSX:Conn_Pin_Header_2x1_2.54mm'.
+Info: Processing symbol 'JP3:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'L1:Ultra-MSX:Res_762'.
+Info: Processing symbol 'L2:Ultra-MSX:Res_762'.
+Info: Processing symbol 'L3:Ultra-MSX:Res_762'.
+Info: Processing symbol 'L4:Ultra-MSX:Res_762'.
+Info: Processing symbol 'NT1:NetTie:NetTie-2_SMD_Pad0.5mm'.
+Info: Processing symbol 'U28:Package_QFP:TQFP-100_14x14mm_P0.5mm'.
+Info: Processing symbol 'NT2:NetTie:NetTie-2_SMD_Pad0.5mm'.
+Info: Processing symbol 'Y2:Ultra-MSX:Crystal_32K_Horiz'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R11:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R12:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R13:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R14:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R15:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R16:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R17:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R18:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R20:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R21:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R22:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R117:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R24:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R25:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R26:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R27:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R28:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R29:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R30:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R31:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R32:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R33:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R34:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R35:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R36:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R37:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R38:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R39:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R40:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R41:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R42:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R43:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R62:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R63:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R64:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R65:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R66:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R67:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R68:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R69:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R70:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R71:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R72:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R73:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R74:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R75:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R76:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R77:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R79:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R80:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R85:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R86:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R87:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R88:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R89:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R90:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R91:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R92:LRJ:R_0603_1608Metric_roundcourt'.
+Info: Processing symbol 'R115:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R116:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R118:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R121:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R122:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R123:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R124:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R125:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R126:Resistor_SMD:R_0603_1608Metric'.
+Add C67 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Add C71 (footprint 'Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder').
+Remove Case1 'exclude from BOM' fabrication attribute.
+Connect J5 pin 25 to /GND/SBU2.
+Connect J5 pin 26 to /SWDCLK/RX1-.
+Connect J5 pin 27 to /SWDIO/RX1+.
+Connect J5 pin 28 to /USB1_D-.
+Connect J5 pin 29 to /USB1_D+.
+Connect J5 pin 30 to GND.
+Connect J5 pin 31 to /USB2_D-.
+Connect J5 pin 32 to /USB2_D+.
+Connect J5 pin 33 to /SWO/RX2-.
+Connect J5 pin 34 to /nRESET/RX2+.
+Connect J5 pin 35 to /CC1/HPD.
+Connect J5 pin 36 to GND.
+Connect J5 pin 37 to +5V.
+Connect J5 pin 38 to /PRT_BUSY.
+Add net /MSX ENGINE/PD7.
+Connect J5 pin 39 to /MSX ENGINE/PD7.
+Add net /MSX ENGINE/PD5.
+Connect J5 pin 40 to /MSX ENGINE/PD5.
+Add net /MSX ENGINE/PD6.
+Connect J5 pin 41 to /MSX ENGINE/PD6.
+Add net /MSX ENGINE/PD4.
+Connect J5 pin 42 to /MSX ENGINE/PD4.
+Add net /MSX ENGINE/PD3.
+Connect J5 pin 43 to /MSX ENGINE/PD3.
+Add net /MSX ENGINE/PD2.
+Connect J5 pin 44 to /MSX ENGINE/PD2.
+Add net /MSX ENGINE/PD1.
+Connect J5 pin 45 to /MSX ENGINE/PD1.
+Add net /MSX ENGINE/PD0.
+Connect J5 pin 46 to /MSX ENGINE/PD0.
+Connect J5 pin 47 to /~{STROBE}.
+Connect J5 pin 49 to /GOUT.
+Connect J5 pin 50 to /CSYNC.
+Connect J5 pin 51 to /BOUT.
+Connect J5 pin 52 to /AUD_L.
+Connect J5 pin 53 to /AUD_R.
+Connect J5 pin 54 to GNDA.
+Connect J5 pin 55 to GNDA.
+Add NT1 (footprint 'NetTie:NetTie-2_SMD_Pad0.5mm').
+Add NT2 (footprint 'NetTie:NetTie-2_SMD_Pad0.5mm').
+Reconnect U2 pin 27 from /~{ROE} to /~{HALT}.
+Reconnect U2 pin 28 from /RMPX to /I2C_AD4.
+Reconnect U2 pin 29 from /~{POE} to /I2C_AD1.
+Reconnect U2 pin 30 from /PMPX to /I2C_AD2.
+Reconnect U2 pin 31 from /~{PRT_BSY_RD} to /I2C_AD3.
+Reconnect U2 pin 32 from /~{PRT_STB_WR} to /KEY_DIR.
+Reconnect U2 pin 33 from /~{PRT_CMD_CS} to /CAPS_LED.
+Reconnect U2 pin 34 from /PRT_BUSY to /KEY_CLICK.
+Reconnect U2 pin 35 from /~{STROBE} to /~{KBD_WAIT}.
+Add net unconnected-(U2-Pad36).
+Reconnect U2 pin 36 from /USB1_D- to unconnected-(U2-Pad36).
+Reconnect U2 pin 38 from /MSX ENGINE/PD0-7 to /KANA_LED.
+Reconnect U2 pin 39 from /NTSC_CLKO to /MSX ENGINE/COL0.
+Reconnect U2 pin 40 from /~{HALT} to /MSX ENGINE/COL1.
+Reconnect U2 pin 41 from /~{CS2} to /MSX ENGINE/COL2.
+Reconnect U2 pin 42 from /~{M1_Z80} to /MSX ENGINE/COL3.
+Reconnect U2 pin 43 from /~{MREQ_Z80} to /MSX ENGINE/COL4.
+Reconnect U2 pin 44 from /~{IORQ_Z80} to /MSX ENGINE/COL5.
+Reconnect U2 pin 45 from /MSX ENGINE/Z80_D0 to /MSX ENGINE/COL6.
+Reconnect U2 pin 46 from /~{PSG_CS} to /MSX ENGINE/COL7.
+Reconnect U2 pin 48 from /MSX ENGINE/ENG_~{M1} to /MSX ENGINE/ENG_M1.
+Reconnect U2 pin 50 from /MSX ENGINE/ENG_~{M0} to /MSX ENGINE/ENG_M0.
+Reconnect U2 pin 56 from /MSX ENGINE/ENG_~{M2} to /MSX ENGINE/ENG_M2.
+Reconnect U2 pin 58 from /MSX ENGINE/Z80_D1 to /~{SLT_RST}.
+Reconnect U2 pin 59 from /MSX ENGINE/Z80_D2 to /~{VDP_RST}.
+Reconnect U2 pin 60 from /MSX ENGINE/Z80_D3 to /~{AUD_RST}.
+Reconnect U2 pin 61 from /MSX ENGINE/Z80_D4 to /SD_DET_A.
+Reconnect U2 pin 62 from /MSX ENGINE/Z80_D5 to /SD_DET_B.
+Reconnect U2 pin 63 from /MSX ENGINE/Z80_D6 to /~{M1_Z80}.
+Reconnect U2 pin 64 from /MSX ENGINE/Z80_D7 to /~{MREQ_Z80}.
+Reconnect U2 pin 65 from /~{SLT_RST} to /~{IORQ_Z80}.
+Reconnect U2 pin 66 from /~{VDP_RST} to /MSX ENGINE/Z80_D0.
+Reconnect U2 pin 68 from /~{AUD_RST} to /MSX ENGINE/Z80_D1.
+Reconnect U2 pin 69 from /SD_MOSI/DAT2 to /MSX ENGINE/Z80_D2.
+Reconnect U2 pin 70 from /SD_DAT3 to /MSX ENGINE/Z80_D3.
+Reconnect U2 pin 71 from /SD_CMD to /MSX ENGINE/Z80_D4.
+Reconnect U2 pin 72 from /SD_CLK to /MSX ENGINE/Z80_D5.
+Reconnect U2 pin 73 from /SD_MISO/DAT0 to /MSX ENGINE/Z80_D6.
+Reconnect U2 pin 74 from /SD_DAT1 to /MSX ENGINE/Z80_D7.
+Reconnect U2 pin 75 from /SD_DET_A to /SD_DAT1.
+Reconnect U2 pin 82 from /SD_DET_B to /SD_MOSI/DAT2.
+Reconnect U2 pin 83 from /I2C_AD4 to /SD_DAT3.
+Reconnect U2 pin 84 from /I2C_AD1 to /SD_CMD.
+Reconnect U2 pin 85 from /I2C_AD2 to /SD_CLK.
+Reconnect U2 pin 88 from /I2C_AD3 to /SD_MISO/DAT0.
+Add net unconnected-(U2-Pad120).
+Reconnect U2 pin 120 from /USB2_D+ to unconnected-(U2-Pad120).
+Add net unconnected-(U2-Pad141).
+Reconnect U2 pin 141 from /USB2_D- to unconnected-(U2-Pad141).
+Reconnect U2 pin 193 from /CC1/HPD to /~{CS2}.
+Reconnect U2 pin 195 from /nRESET/RX2+ to /~{PSG_CS}.
+Add net unconnected-(U2-Pad196).
+Reconnect U2 pin 196 from /SWDCLK/RX1- to unconnected-(U2-Pad196).
+Add net unconnected-(U2-Pad197).
+Reconnect U2 pin 197 from /GND/SBU2 to unconnected-(U2-Pad197).
+Add net unconnected-(U2-Pad198).
+Reconnect U2 pin 198 from /VCT/SBU1 to unconnected-(U2-Pad198).
+Add net unconnected-(U2-Pad201).
+Reconnect U2 pin 201 from /SWO/RX2- to unconnected-(U2-Pad201).
+Add net unconnected-(U2-Pad202).
+Reconnect U2 pin 202 from /SWDIO/RX1+ to unconnected-(U2-Pad202).
+Reconnect SW1 pin 4 from /MSX ENGINE/ENG_~{M0} to /MSX ENGINE/ENG_M0.
+Add net /MSX ENGINE/ENG_M1.
+Reconnect SW1 pin 5 from /MSX ENGINE/ENG_~{M1} to /MSX ENGINE/ENG_M1.
+Add net /MSX ENGINE/ENG_M2.
+Reconnect SW1 pin 6 from /MSX ENGINE/ENG_~{M2} to /MSX ENGINE/ENG_M2.
+Reconnect SW1 pin 10 from GND to +5VP.
+Reconnect SW1 pin 11 from GND to +5VP.
+Reconnect SW1 pin 12 from GND to +5VP.
+Connect J5 pin 48 to /ROUT.
+Add net /MSX ENGINE/ENG_M0.
+Update U2 properties.
+Reconnect U2 pin 6 from /KEY_DIR to /CAS_IN.
+Reconnect U2 pin 7 from /CAPS_LED to /CAS_MOT.
+Reconnect U2 pin 10 from /KEY_CLICK to /CAS_OUT.
+Reconnect U2 pin 11 from /~{KBD_WAIT} to /~{VDP_WAIT}.
+Reconnect U2 pin 12 from /KANA_LED to /~{VDP_WR}.
+Reconnect U2 pin 13 from /CAS_IN to /~{VDP_RD}.
+Add net unconnected-(U2-Pad15).
+Remove unused footprint C42.
+Reconnect U2 pin 15 from /USB1_D+ to unconnected-(U2-Pad15).
+Reconnect U2 pin 16 from /CAS_MOT to /~{ROE}.
+Reconnect U2 pin 19 from /CAS_OUT to /RMPX.
+Reconnect U2 pin 20 from /~{VDP_WAIT} to /~{POE}.
+Reconnect U2 pin 21 from /~{VDP_WR} to /PMPX.
+Add U28 (footprint 'Package_QFP:TQFP-100_14x14mm_P0.5mm').
+Reconnect U2 pin 22 from /~{VDP_RD} to /NTSC_CLKO.
+Remove unused footprint C29.
+Remove unused footprint C31.
+Remove unused footprint C41.
+Remove unused footprint C14.
+Remove unused footprint U16.
+Remove unused footprint C40.
 Warning: No net found for symbol U23 pin 29.
-Warning: No net found for symbol U23 pin 33.
+Warning: No net found for symbol U15 pin 21.
 Warning: No net found for symbol U23 pin 43.
-Warning: No net found for symbol U23 pin 52.
-Warning: No net found for symbol RV8 pin 20.
-Warning: No net found for symbol RV2 pin 14.
-Warning: No net found for symbol RV2 pin 15.
-Warning: No net found for symbol RV2 pin 16.
-Warning: No net found for symbol RV2 pin 17.
 Warning: Via connected to unknown net ().
+Warning: No net found for symbol U23 pin 52.
+Warning: No net found for symbol U23 pin 33.
 
 
 Info: Total warnings: 1, errors: 0.

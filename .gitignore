@@ -37,3 +37,8 @@ _autosave-*
 \Hardware\Ultra-VDP\Ultra-VDP-backups\
 
 \Hardware\Ultra-IO-shield\Ultra-IO-shield-backups\
+
+*.zip
+
+#File too big for Git
+\M-Cad_ultra/Ultra-MSX.wrl
