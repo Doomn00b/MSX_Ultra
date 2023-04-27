@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Ultra-MSX)(type KiCad)(uri ${KIPRJMOD}/Libraries/Ultra-MSX.pretty)(options "")(descr ""))
+  (lib (name "Ultra-MSX")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Ultra-MSX.pretty")(options "")(descr ""))
+  (lib (name "temp-shit")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/FPGA/Altera (Intel)/Flex6000_family_footprints/temp-shit")(options "")(descr ""))
 )

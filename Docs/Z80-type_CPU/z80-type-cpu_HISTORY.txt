@@ -1,4 +1,4 @@
-ntroduced by ZiLOG in the early '70s, the Z80 was an impressive processor for its time. 
+Introduced by ZiLOG in the early '70s, the Z80 was an impressive processor for its time. 
 The original Z80 (a 2MHz part) was a souped-up version of the then-popular Intel 8080 processor. 
 While compatible with the 8080, the Z80 offered many new features: new instructions, new addressing modes, 
 two index registers, faster execution, high performance peripheral chips, and a clever interrupt scheme. 

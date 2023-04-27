@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "Ultra-MSX")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Ultra-MSX.kicad_sym")(options "")(descr ""))
+  (lib (name "EPF6016BC256-3N")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/FPGA/Altera (Intel)/Flex6000_family_footprints/temp-shit/EPF6016BC256-3N.kicad_sym")(options "")(descr ""))
 )

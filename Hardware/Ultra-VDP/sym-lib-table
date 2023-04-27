@@ -1,4 +1,4 @@
 (sym_lib_table
+  (version 7)
   (lib (name "Ultra-MSX")(type "KiCad")(uri "E:/Documents/Teknikprojekt/Hardware/MSX/MSX_Ultra/Hardware/Libraries/Ultra-MSX.kicad_sym")(options "")(descr ""))
-  (lib (name "Zpark")(type "KiCad")(uri "C:/Users/Doomn00b/Desktop/zpark_kicad_libraries/symbols/Zpark.kicad_sym")(options "")(descr ""))
 )
