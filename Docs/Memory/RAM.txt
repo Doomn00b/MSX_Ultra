@@ -2,7 +2,8 @@ Module-suggestion:
 AN32V6416SQGAM
 
 Connector:
-296403144221856A+
+296403144221856A+ (tht)
+296403144121856A+ (smd)
 
 
 Look at:
